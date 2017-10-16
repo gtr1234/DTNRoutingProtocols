@@ -66,6 +66,7 @@ Group.nrofHosts = 50
 Group1.groupID = p
 
 
+
 ## Message creation parameters
 # How many event generators
 Events.nrof = 1
@@ -81,6 +82,7 @@ Events1.hosts = 0,49
 # Message ID prefix
 Events1.prefix = M
 
+Events1.k = [2;3;4;5]
 
 ## Movement model settings
 # seed for movement models' pseudo random number generator (default = 0)
@@ -109,6 +111,8 @@ Report.warmup = 0
 Report.reportDir = reports/Lab4-1
 # Report classes to load
 Report.report1 = MessageStatsReport
+
+Report.k = [2;3;4;5]
 
 ## Default settings for some routers settings
 

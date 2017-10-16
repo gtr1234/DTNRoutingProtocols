@@ -18,7 +18,7 @@ public class Message implements Comparable<Message> {
 	 * If set to true, the TTL is interpreted as seconds instead of minutes. 
 	 * Default=false. */
 	public static final String TTL_SECONDS_S = "Scenario.ttlSeconds";
-	public static final int K = 3;
+
 	private static boolean ttlAsSeconds = false;
 	
 	/** Value for infinite TTL of message */
@@ -87,11 +87,16 @@ public class Message implements Comparable<Message> {
 		this.properties = null;
 		this.appID = null;
 
-		hopsLeft = K;
+
 		
 		Message.nextUniqueId++;
 		addNodeOnPath(from);
 	}
+
+    public Message(DTNHost from, DTNHost to, String id, int size, int k){
+        this(from,to,id,size);
+        hopsLeft = k;
+    }
 
     public int getHopsLeft() {
         return hopsLeft;
@@ -288,8 +293,8 @@ public class Message implements Comparable<Message> {
 		this.appID = m.appID;
 
 		this.hopsLeft = m.hopsLeft;
-		
-		if (m.properties != null) {
+
+        if (m.properties != null) {
 			Set<String> keys = m.properties.keySet();
 			for (String key : keys) {
 				updateProperty(key, m.getProperty(key));
