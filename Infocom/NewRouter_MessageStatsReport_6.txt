@@ -1,0 +1,2068 @@
+Message stats for scenario NewRouter
+sim_time: 3616.0000
+created: 105
+started: 1634
+relayed: 1322
+aborted: 310
+dropped: 837
+removed: 0
+delivered: 19
+delivery_prob: 0.1810
+response_prob: 0.0000
+overhead_ratio: 68.5789
+latency_avg: 1190.9211
+latency_med: 1158.7000
+hopcount_avg: 2.5789
+hopcount_med: 2
+buffertime_avg: 820.0977
+buffertime_med: 717.2000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 1190.921052630499
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 7230.0000
+created: 210
+started: 3478
+relayed: 2789
+aborted: 688
+dropped: 2362
+removed: 0
+delivered: 41
+delivery_prob: 0.1952
+response_prob: 0.0000
+overhead_ratio: 67.0244
+latency_avg: 1795.3171
+latency_med: 1400.8000
+hopcount_avg: 3.0488
+hopcount_med: 3
+buffertime_avg: 1089.2088
+buffertime_med: 875.1000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 1795.3170731709397
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 10835.0000
+created: 315
+started: 5738
+relayed: 4605
+aborted: 1130
+dropped: 4253
+removed: 0
+delivered: 77
+delivery_prob: 0.2444
+response_prob: 0.0000
+overhead_ratio: 58.8052
+latency_avg: 2537.5052
+latency_med: 1918.1000
+hopcount_avg: 3.3636
+hopcount_med: 3
+buffertime_avg: 1126.4064
+buffertime_med: 865.0000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 2537.5051948119344
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 14442.0000
+created: 419
+started: 7792
+relayed: 6237
+aborted: 1554
+dropped: 5976
+removed: 0
+delivered: 109
+delivery_prob: 0.2601
+response_prob: 0.0000
+overhead_ratio: 56.2202
+latency_avg: 2838.0092
+latency_med: 2676.6000
+hopcount_avg: 3.4954
+hopcount_med: 4
+buffertime_avg: 1149.5765
+buffertime_med: 868.2000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 2838.009174324738
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 18058.0000
+created: 523
+started: 9922
+relayed: 7955
+aborted: 1966
+dropped: 7755
+removed: 0
+delivered: 145
+delivery_prob: 0.2772
+response_prob: 0.0000
+overhead_ratio: 53.8621
+latency_avg: 2939.5034
+latency_med: 2703.7000
+hopcount_avg: 3.5862
+hopcount_med: 4
+buffertime_avg: 1164.2520
+buffertime_med: 881.3000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 2939.5034482933816
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 21673.0000
+created: 627
+started: 11711
+relayed: 9382
+aborted: 2326
+dropped: 9240
+removed: 0
+delivered: 168
+delivery_prob: 0.2679
+response_prob: 0.0000
+overhead_ratio: 54.8452
+latency_avg: 2972.6643
+latency_med: 2694.2000
+hopcount_avg: 3.5536
+hopcount_med: 4
+buffertime_avg: 1194.7758
+buffertime_med: 908.6000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 2972.664285728144
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 25301.0000
+created: 732
+started: 13724
+relayed: 11010
+aborted: 2713
+dropped: 10965
+removed: 0
+delivered: 194
+delivery_prob: 0.2650
+response_prob: 0.0000
+overhead_ratio: 55.7526
+latency_avg: 3062.1124
+latency_med: 2821.3000
+hopcount_avg: 3.6082
+hopcount_med: 4
+buffertime_avg: 1211.3983
+buffertime_med: 913.8000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3062.112371137569
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 28913.0000
+created: 837
+started: 15958
+relayed: 12787
+aborted: 3170
+dropped: 12820
+removed: 0
+delivered: 233
+delivery_prob: 0.2784
+response_prob: 0.0000
+overhead_ratio: 53.8798
+latency_avg: 3083.7150
+latency_med: 2694.2000
+hopcount_avg: 3.5579
+hopcount_med: 4
+buffertime_avg: 1202.1047
+buffertime_med: 906.3000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3083.7150214438425
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 32521.0000
+created: 943
+started: 17697
+relayed: 14219
+aborted: 3475
+dropped: 14338
+removed: 0
+delivered: 261
+delivery_prob: 0.2768
+response_prob: 0.0000
+overhead_ratio: 53.4789
+latency_avg: 3028.1682
+latency_med: 2676.6000
+hopcount_avg: 3.5211
+hopcount_med: 4
+buffertime_avg: 1213.6654
+buffertime_med: 920.6000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3028.168199201653
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 36137.0000
+created: 1046
+started: 19579
+relayed: 15723
+aborted: 3853
+dropped: 15933
+removed: 0
+delivered: 290
+delivery_prob: 0.2772
+response_prob: 0.0000
+overhead_ratio: 53.2172
+latency_avg: 3016.8924
+latency_med: 2673.6000
+hopcount_avg: 3.4897
+hopcount_med: 4
+buffertime_avg: 1223.1863
+buffertime_med: 925.3000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3016.8924137426707
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 39755.0000
+created: 1151
+started: 21281
+relayed: 17088
+aborted: 4191
+dropped: 17364
+removed: 0
+delivered: 318
+delivery_prob: 0.2763
+response_prob: 0.0000
+overhead_ratio: 52.7358
+latency_avg: 3010.6314
+latency_med: 2633.7000
+hopcount_avg: 3.4434
+hopcount_med: 4
+buffertime_avg: 1233.9258
+buffertime_med: 937.3000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3010.6314464710063
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 43367.0000
+created: 1256
+started: 23283
+relayed: 18705
+aborted: 4575
+dropped: 19024
+removed: 0
+delivered: 351
+delivery_prob: 0.2795
+response_prob: 0.0000
+overhead_ratio: 52.2906
+latency_avg: 3116.8271
+latency_med: 2735.7000
+hopcount_avg: 3.4558
+hopcount_med: 4
+buffertime_avg: 1243.2383
+buffertime_med: 944.0000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3116.8270654330945
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 46990.0000
+created: 1359
+started: 25082
+relayed: 20116
+aborted: 4964
+dropped: 20517
+removed: 0
+delivered: 382
+delivery_prob: 0.2811
+response_prob: 0.0000
+overhead_ratio: 51.6597
+latency_avg: 3115.3136
+latency_med: 2738.6000
+hopcount_avg: 3.4634
+hopcount_med: 4
+buffertime_avg: 1246.9925
+buffertime_med: 951.2000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3115.3136124485786
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 50599.0000
+created: 1464
+started: 27057
+relayed: 21720
+aborted: 5334
+dropped: 22206
+removed: 0
+delivered: 407
+delivery_prob: 0.2780
+response_prob: 0.0000
+overhead_ratio: 52.3661
+latency_avg: 3117.4678
+latency_med: 2750.8000
+hopcount_avg: 3.4693
+hopcount_med: 4
+buffertime_avg: 1249.6601
+buffertime_med: 952.8000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3117.4678131316327
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 54212.0000
+created: 1569
+started: 29067
+relayed: 23304
+aborted: 5762
+dropped: 23847
+removed: 0
+delivered: 453
+delivery_prob: 0.2887
+response_prob: 0.0000
+overhead_ratio: 50.4437
+latency_avg: 3203.3183
+latency_med: 2821.3000
+hopcount_avg: 3.4901
+hopcount_med: 4
+buffertime_avg: 1250.3227
+buffertime_med: 951.4000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3203.3183221244594
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 57826.0000
+created: 1673
+started: 30955
+relayed: 24804
+aborted: 6150
+dropped: 25422
+removed: 0
+delivered: 478
+delivery_prob: 0.2857
+response_prob: 0.0000
+overhead_ratio: 50.8912
+latency_avg: 3196.4079
+latency_med: 2831.1000
+hopcount_avg: 3.4749
+hopcount_med: 4
+buffertime_avg: 1252.8899
+buffertime_med: 953.8000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3196.4079496006884
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 61447.0000
+created: 1776
+started: 32937
+relayed: 26404
+aborted: 6530
+dropped: 27094
+removed: 0
+delivered: 507
+delivery_prob: 0.2855
+response_prob: 0.0000
+overhead_ratio: 51.0789
+latency_avg: 3233.8921
+latency_med: 2898.3000
+hopcount_avg: 3.4911
+hopcount_med: 4
+buffertime_avg: 1255.6118
+buffertime_med: 957.3000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3233.892110240835
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 65060.0000
+created: 1881
+started: 34819
+relayed: 27912
+aborted: 6905
+dropped: 28706
+removed: 0
+delivered: 531
+delivery_prob: 0.2823
+response_prob: 0.0000
+overhead_ratio: 51.5650
+latency_avg: 3225.3437
+latency_med: 2898.3000
+hopcount_avg: 3.5104
+hopcount_med: 4
+buffertime_avg: 1253.5677
+buffertime_med: 952.7000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3225.3436909165894
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 68688.0000
+created: 1986
+started: 36877
+relayed: 29552
+aborted: 7323
+dropped: 30413
+removed: 0
+delivered: 568
+delivery_prob: 0.2860
+response_prob: 0.0000
+overhead_ratio: 51.0282
+latency_avg: 3240.2958
+latency_med: 2940.4000
+hopcount_avg: 3.5176
+hopcount_med: 4
+buffertime_avg: 1254.0906
+buffertime_med: 954.6000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3240.295774391341
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 72316.0000
+created: 2091
+started: 38894
+relayed: 31172
+aborted: 7721
+dropped: 32088
+removed: 0
+delivered: 600
+delivery_prob: 0.2869
+response_prob: 0.0000
+overhead_ratio: 50.9533
+latency_avg: 3258.9375
+latency_med: 2955.2000
+hopcount_avg: 3.5300
+hopcount_med: 4
+buffertime_avg: 1250.7188
+buffertime_med: 953.5000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3258.937499736935
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 75940.0000
+created: 2196
+started: 40849
+relayed: 32722
+aborted: 8124
+dropped: 33707
+removed: 0
+delivered: 633
+delivery_prob: 0.2883
+response_prob: 0.0000
+overhead_ratio: 50.6935
+latency_avg: 3265.3510
+latency_med: 2933.1000
+hopcount_avg: 3.5166
+hopcount_med: 4
+buffertime_avg: 1252.0346
+buffertime_med: 956.0000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3265.351026598429
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 79561.0000
+created: 2300
+started: 42861
+relayed: 34337
+aborted: 8523
+dropped: 35402
+removed: 0
+delivered: 671
+delivery_prob: 0.2917
+response_prob: 0.0000
+overhead_ratio: 50.1729
+latency_avg: 3251.0539
+latency_med: 2918.5000
+hopcount_avg: 3.5127
+hopcount_med: 4
+buffertime_avg: 1250.4860
+buffertime_med: 955.0000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3251.053949088392
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 83177.0000
+created: 2405
+started: 44953
+relayed: 36042
+aborted: 8911
+dropped: 37126
+removed: 0
+delivered: 707
+delivery_prob: 0.2940
+response_prob: 0.0000
+overhead_ratio: 49.9788
+latency_avg: 3219.0656
+latency_med: 2894.1000
+hopcount_avg: 3.5106
+hopcount_med: 4
+buffertime_avg: 1248.9334
+buffertime_med: 956.0000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3219.065629203654
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 86812.0000
+created: 2512
+started: 46975
+relayed: 37665
+aborted: 9306
+dropped: 38881
+removed: 0
+delivered: 735
+delivery_prob: 0.2926
+response_prob: 0.0000
+overhead_ratio: 50.2449
+latency_avg: 3231.3959
+latency_med: 2933.1000
+hopcount_avg: 3.5156
+hopcount_med: 4
+buffertime_avg: 1249.8818
+buffertime_med: 955.3000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3231.395918174491
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 90442.0000
+created: 2618
+started: 48835
+relayed: 39140
+aborted: 9692
+dropped: 40420
+removed: 0
+delivered: 761
+delivery_prob: 0.2907
+response_prob: 0.0000
+overhead_ratio: 50.4323
+latency_avg: 3232.3288
+latency_med: 2920.5000
+hopcount_avg: 3.5204
+hopcount_med: 4
+buffertime_avg: 1252.2071
+buffertime_med: 957.6000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3232.328777759971
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 94058.0000
+created: 2723
+started: 50842
+relayed: 40750
+aborted: 10091
+dropped: 42111
+removed: 0
+delivered: 799
+delivery_prob: 0.2934
+response_prob: 0.0000
+overhead_ratio: 50.0013
+latency_avg: 3257.2171
+latency_med: 2940.4000
+hopcount_avg: 3.5269
+hopcount_med: 4
+buffertime_avg: 1251.8149
+buffertime_med: 957.6000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3257.2171463185487
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 97695.0000
+created: 2828
+started: 52825
+relayed: 42323
+aborted: 10501
+dropped: 43748
+removed: 0
+delivered: 826
+delivery_prob: 0.2921
+response_prob: 0.0000
+overhead_ratio: 50.2385
+latency_avg: 3253.0528
+latency_med: 2940.4000
+hopcount_avg: 3.5254
+hopcount_med: 4
+buffertime_avg: 1250.4064
+buffertime_med: 957.0000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3253.0527844281823
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 101314.0000
+created: 2933
+started: 54827
+relayed: 43932
+aborted: 10894
+dropped: 45446
+removed: 0
+delivered: 861
+delivery_prob: 0.2936
+response_prob: 0.0000
+overhead_ratio: 50.0244
+latency_avg: 3264.3677
+latency_med: 2933.1000
+hopcount_avg: 3.5261
+hopcount_med: 4
+buffertime_avg: 1250.5087
+buffertime_med: 956.9000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3264.367711940565
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 104944.0000
+created: 3038
+started: 56793
+relayed: 45501
+aborted: 11291
+dropped: 47072
+removed: 0
+delivered: 888
+delivery_prob: 0.2923
+response_prob: 0.0000
+overhead_ratio: 50.2399
+latency_avg: 3274.7545
+latency_med: 2940.3000
+hopcount_avg: 3.5282
+hopcount_med: 4
+buffertime_avg: 1247.3415
+buffertime_med: 953.1000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3274.7545045283205
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 108549.0000
+created: 3144
+started: 58847
+relayed: 47180
+aborted: 11666
+dropped: 48814
+removed: 0
+delivered: 925
+delivery_prob: 0.2942
+response_prob: 0.0000
+overhead_ratio: 50.0054
+latency_avg: 3264.1159
+latency_med: 2933.1000
+hopcount_avg: 3.5276
+hopcount_med: 4
+buffertime_avg: 1246.7913
+buffertime_med: 951.3000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3264.1158919832633
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 112159.0000
+created: 3248
+started: 60641
+relayed: 48606
+aborted: 12034
+dropped: 50332
+removed: 0
+delivered: 942
+delivery_prob: 0.2900
+response_prob: 0.0000
+overhead_ratio: 50.5987
+latency_avg: 3250.5671
+latency_med: 2918.5000
+hopcount_avg: 3.5212
+hopcount_med: 4
+buffertime_avg: 1250.6905
+buffertime_med: 956.6000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3250.567091419501
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 115785.0000
+created: 3353
+started: 62610
+relayed: 50189
+aborted: 12421
+dropped: 51997
+removed: 0
+delivered: 973
+delivery_prob: 0.2902
+response_prob: 0.0000
+overhead_ratio: 50.5817
+latency_avg: 3279.4664
+latency_med: 2940.4000
+hopcount_avg: 3.5242
+hopcount_med: 4
+buffertime_avg: 1251.5830
+buffertime_med: 957.6000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3279.4663927891843
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 119387.0000
+created: 3458
+started: 64581
+relayed: 51788
+aborted: 12792
+dropped: 53650
+removed: 0
+delivered: 1003
+delivery_prob: 0.2901
+response_prob: 0.0000
+overhead_ratio: 50.6331
+latency_avg: 3283.8375
+latency_med: 2946.3000
+hopcount_avg: 3.5224
+hopcount_med: 4
+buffertime_avg: 1251.2540
+buffertime_med: 956.8000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3283.8374877911574
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 123017.0000
+created: 3563
+started: 66444
+relayed: 53267
+aborted: 13176
+dropped: 55236
+removed: 0
+delivered: 1031
+delivery_prob: 0.2894
+response_prob: 0.0000
+overhead_ratio: 50.6654
+latency_avg: 3273.2524
+latency_med: 2940.4000
+hopcount_avg: 3.5179
+hopcount_med: 4
+buffertime_avg: 1253.8880
+buffertime_med: 959.7000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3273.2523766478653
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 126625.0000
+created: 3667
+started: 68190
+relayed: 54654
+aborted: 13535
+dropped: 56669
+removed: 0
+delivered: 1063
+delivery_prob: 0.2899
+response_prob: 0.0000
+overhead_ratio: 50.4149
+latency_avg: 3289.5955
+latency_med: 2976.6000
+hopcount_avg: 3.5193
+hopcount_med: 4
+buffertime_avg: 1259.2815
+buffertime_med: 965.9000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3289.595484860922
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 130250.0000
+created: 3771
+started: 70042
+relayed: 56152
+aborted: 13888
+dropped: 58246
+removed: 0
+delivered: 1088
+delivery_prob: 0.2885
+response_prob: 0.0000
+overhead_ratio: 50.6103
+latency_avg: 3271.4050
+latency_med: 2974.1000
+hopcount_avg: 3.5037
+hopcount_med: 4
+buffertime_avg: 1262.1308
+buffertime_med: 968.4000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3271.4049636783484
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 133864.0000
+created: 3876
+started: 72033
+relayed: 57740
+aborted: 14291
+dropped: 59932
+removed: 0
+delivered: 1125
+delivery_prob: 0.2902
+response_prob: 0.0000
+overhead_ratio: 50.3244
+latency_avg: 3276.4456
+latency_med: 2976.4000
+hopcount_avg: 3.5076
+hopcount_med: 4
+buffertime_avg: 1260.9300
+buffertime_med: 966.6000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3276.4456005302454
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 137496.0000
+created: 3982
+started: 74205
+relayed: 59450
+aborted: 14752
+dropped: 61697
+removed: 0
+delivered: 1156
+delivery_prob: 0.2903
+response_prob: 0.0000
+overhead_ratio: 50.4273
+latency_avg: 3274.5593
+latency_med: 2974.1000
+hopcount_avg: 3.5026
+hopcount_med: 4
+buffertime_avg: 1259.2371
+buffertime_med: 964.6000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3274.5593431650263
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 141133.0000
+created: 4088
+started: 76047
+relayed: 60907
+aborted: 15138
+dropped: 63249
+removed: 0
+delivered: 1186
+delivery_prob: 0.2901
+response_prob: 0.0000
+overhead_ratio: 50.3550
+latency_avg: 3265.0266
+latency_med: 2955.2000
+hopcount_avg: 3.4966
+hopcount_med: 4
+buffertime_avg: 1260.0315
+buffertime_med: 964.4000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3265.026644862975
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 144744.0000
+created: 4193
+started: 78210
+relayed: 62662
+aborted: 15547
+dropped: 65053
+removed: 0
+delivered: 1219
+delivery_prob: 0.2907
+response_prob: 0.0000
+overhead_ratio: 50.4044
+latency_avg: 3284.1682
+latency_med: 2974.1000
+hopcount_avg: 3.5029
+hopcount_med: 4
+buffertime_avg: 1258.0063
+buffertime_med: 959.6000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3284.1681713980847
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 148358.0000
+created: 4298
+started: 80346
+relayed: 64357
+aborted: 15988
+dropped: 66826
+removed: 0
+delivered: 1248
+delivery_prob: 0.2904
+response_prob: 0.0000
+overhead_ratio: 50.5681
+latency_avg: 3268.4627
+latency_med: 2944.7000
+hopcount_avg: 3.5016
+hopcount_med: 4
+buffertime_avg: 1255.9742
+buffertime_med: 958.5000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3268.462741217083
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 151978.0000
+created: 4402
+started: 82472
+relayed: 66039
+aborted: 16433
+dropped: 68616
+removed: 0
+delivered: 1280
+delivery_prob: 0.2908
+response_prob: 0.0000
+overhead_ratio: 50.5930
+latency_avg: 3271.5891
+latency_med: 2940.4000
+hopcount_avg: 3.5117
+hopcount_med: 4
+buffertime_avg: 1253.9386
+buffertime_med: 956.5000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3271.5891415427714
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 155604.0000
+created: 4508
+started: 84472
+relayed: 67620
+aborted: 16851
+dropped: 70264
+removed: 0
+delivered: 1311
+delivery_prob: 0.2908
+response_prob: 0.0000
+overhead_ratio: 50.5789
+latency_avg: 3275.1850
+latency_med: 2946.3000
+hopcount_avg: 3.5103
+hopcount_med: 4
+buffertime_avg: 1254.1121
+buffertime_med: 959.2000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3275.1849743006355
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 159228.0000
+created: 4614
+started: 86280
+relayed: 69081
+aborted: 17198
+dropped: 71788
+removed: 0
+delivered: 1339
+delivery_prob: 0.2902
+response_prob: 0.0000
+overhead_ratio: 50.5915
+latency_avg: 3277.3818
+latency_med: 2955.2000
+hopcount_avg: 3.5205
+hopcount_med: 4
+buffertime_avg: 1255.9612
+buffertime_med: 962.9000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3277.3817785173146
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 162852.0000
+created: 4720
+started: 88334
+relayed: 70734
+aborted: 17598
+dropped: 73518
+removed: 0
+delivered: 1374
+delivery_prob: 0.2911
+response_prob: 0.0000
+overhead_ratio: 50.4803
+latency_avg: 3298.2291
+latency_med: 2979.2000
+hopcount_avg: 3.5298
+hopcount_med: 4
+buffertime_avg: 1254.2179
+buffertime_med: 960.3000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3298.229113243037
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 166470.0000
+created: 4824
+started: 90162
+relayed: 72207
+aborted: 17954
+dropped: 75042
+removed: 0
+delivered: 1410
+delivery_prob: 0.2923
+response_prob: 0.0000
+overhead_ratio: 50.2106
+latency_avg: 3295.8113
+latency_med: 2976.6000
+hopcount_avg: 3.5355
+hopcount_med: 4
+buffertime_avg: 1254.6135
+buffertime_med: 962.9000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3295.8112778539735
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 170089.0000
+created: 4930
+started: 92229
+relayed: 73909
+aborted: 18318
+dropped: 76816
+removed: 0
+delivered: 1444
+delivery_prob: 0.2929
+response_prob: 0.0000
+overhead_ratio: 50.1835
+latency_avg: 3302.3233
+latency_med: 2964.7000
+hopcount_avg: 3.5305
+hopcount_med: 4
+buffertime_avg: 1253.9990
+buffertime_med: 960.6000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3302.3232700514627
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 173712.0000
+created: 5037
+started: 94228
+relayed: 75512
+aborted: 18715
+dropped: 78490
+removed: 0
+delivered: 1471
+delivery_prob: 0.2920
+response_prob: 0.0000
+overhead_ratio: 50.3338
+latency_avg: 3310.8364
+latency_med: 2974.1000
+hopcount_avg: 3.5357
+hopcount_med: 4
+buffertime_avg: 1253.9979
+buffertime_med: 959.7000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3310.8363712425153
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 177319.0000
+created: 5141
+started: 96087
+relayed: 77028
+aborted: 19059
+dropped: 80092
+removed: 0
+delivered: 1499
+delivery_prob: 0.2916
+response_prob: 0.0000
+overhead_ratio: 50.3863
+latency_avg: 3317.1147
+latency_med: 2976.4000
+hopcount_avg: 3.5424
+hopcount_med: 4
+buffertime_avg: 1255.0459
+buffertime_med: 962.8000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3317.1146779573146
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 180932.0000
+created: 5245
+started: 98268
+relayed: 78759
+aborted: 19506
+dropped: 81888
+removed: 0
+delivered: 1538
+delivery_prob: 0.2932
+response_prob: 0.0000
+overhead_ratio: 50.2087
+latency_avg: 3303.8566
+latency_med: 2946.9000
+hopcount_avg: 3.5462
+hopcount_med: 4
+buffertime_avg: 1253.4500
+buffertime_med: 962.0000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3303.8565685850317
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 184552.0000
+created: 5349
+started: 100131
+relayed: 80245
+aborted: 19883
+dropped: 83466
+removed: 0
+delivered: 1569
+delivery_prob: 0.2933
+response_prob: 0.0000
+overhead_ratio: 50.1440
+latency_avg: 3292.6632
+latency_med: 2944.7000
+hopcount_avg: 3.5430
+hopcount_med: 4
+buffertime_avg: 1254.6919
+buffertime_med: 965.0000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3292.66316294974
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 188170.0000
+created: 5453
+started: 101952
+relayed: 81709
+aborted: 20240
+dropped: 85024
+removed: 0
+delivered: 1588
+delivery_prob: 0.2912
+response_prob: 0.0000
+overhead_ratio: 50.4540
+latency_avg: 3304.1431
+latency_med: 2976.4000
+hopcount_avg: 3.5453
+hopcount_med: 4
+buffertime_avg: 1255.3218
+buffertime_med: 966.0000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3304.143074804285
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 191773.0000
+created: 5557
+started: 104053
+relayed: 83361
+aborted: 20690
+dropped: 86750
+removed: 0
+delivered: 1620
+delivery_prob: 0.2915
+response_prob: 0.0000
+overhead_ratio: 50.4574
+latency_avg: 3314.8115
+latency_med: 2979.2000
+hopcount_avg: 3.5580
+hopcount_med: 4
+buffertime_avg: 1255.0526
+buffertime_med: 964.8000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3314.8115450613723
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 195401.0000
+created: 5663
+started: 105886
+relayed: 84816
+aborted: 21068
+dropped: 88293
+removed: 0
+delivered: 1645
+delivery_prob: 0.2905
+response_prob: 0.0000
+overhead_ratio: 50.5599
+latency_avg: 3318.6512
+latency_med: 2979.2000
+hopcount_avg: 3.5526
+hopcount_med: 4
+buffertime_avg: 1254.2217
+buffertime_med: 965.0000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3318.6512481268287
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 199038.0000
+created: 5768
+started: 107735
+relayed: 86270
+aborted: 21462
+dropped: 89820
+removed: 0
+delivered: 1673
+delivery_prob: 0.2900
+response_prob: 0.0000
+overhead_ratio: 50.5660
+latency_avg: 3317.7631
+latency_med: 2983.4000
+hopcount_avg: 3.5481
+hopcount_med: 4
+buffertime_avg: 1255.5549
+buffertime_med: 966.2000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3317.76312214648
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 202642.0000
+created: 5873
+started: 109542
+relayed: 87711
+aborted: 21829
+dropped: 91344
+removed: 0
+delivered: 1702
+delivery_prob: 0.2898
+response_prob: 0.0000
+overhead_ratio: 50.5341
+latency_avg: 3323.4686
+latency_med: 2993.6000
+hopcount_avg: 3.5470
+hopcount_med: 4
+buffertime_avg: 1255.4247
+buffertime_med: 965.8000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3323.468568484466
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 206245.0000
+created: 5976
+started: 111634
+relayed: 89385
+aborted: 22248
+dropped: 93054
+removed: 0
+delivered: 1730
+delivery_prob: 0.2895
+response_prob: 0.0000
+overhead_ratio: 50.6676
+latency_avg: 3319.6053
+latency_med: 2993.6000
+hopcount_avg: 3.5410
+hopcount_med: 4
+buffertime_avg: 1253.3272
+buffertime_med: 963.2000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3319.605262293718
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 209861.0000
+created: 6080
+started: 113365
+relayed: 90757
+aborted: 22607
+dropped: 94512
+removed: 0
+delivered: 1748
+delivery_prob: 0.2875
+response_prob: 0.0000
+overhead_ratio: 50.9205
+latency_avg: 3311.4663
+latency_med: 2979.2000
+hopcount_avg: 3.5326
+hopcount_med: 4
+buffertime_avg: 1255.6455
+buffertime_med: 965.3000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3311.4663065818336
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 213476.0000
+created: 6185
+started: 115233
+relayed: 92247
+aborted: 22985
+dropped: 96078
+removed: 0
+delivered: 1783
+delivery_prob: 0.2883
+response_prob: 0.0000
+overhead_ratio: 50.7370
+latency_avg: 3318.2999
+latency_med: 2976.6000
+hopcount_avg: 3.5339
+hopcount_med: 4
+buffertime_avg: 1257.0985
+buffertime_med: 966.0000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3318.299946254213
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 217093.0000
+created: 6289
+started: 116981
+relayed: 93626
+aborted: 23355
+dropped: 97533
+removed: 0
+delivered: 1814
+delivery_prob: 0.2884
+response_prob: 0.0000
+overhead_ratio: 50.6130
+latency_avg: 3318.5842
+latency_med: 2982.6000
+hopcount_avg: 3.5298
+hopcount_med: 4
+buffertime_avg: 1258.1583
+buffertime_med: 967.4000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3318.584236174769
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 220705.0000
+created: 6394
+started: 118837
+relayed: 95105
+aborted: 23728
+dropped: 99081
+removed: 0
+delivered: 1853
+delivery_prob: 0.2898
+response_prob: 0.0000
+overhead_ratio: 50.3249
+latency_avg: 3314.1028
+latency_med: 2977.4000
+hopcount_avg: 3.5181
+hopcount_med: 4
+buffertime_avg: 1260.2802
+buffertime_med: 968.2000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3314.1027548533375
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 224327.0000
+created: 6500
+started: 120657
+relayed: 96550
+aborted: 24107
+dropped: 100600
+removed: 0
+delivered: 1880
+delivery_prob: 0.2892
+response_prob: 0.0000
+overhead_ratio: 50.3564
+latency_avg: 3303.8702
+latency_med: 2976.9000
+hopcount_avg: 3.5106
+hopcount_med: 4
+buffertime_avg: 1261.1112
+buffertime_med: 970.4000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3303.8702154105767
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 227941.0000
+created: 6605
+started: 122303
+relayed: 97863
+aborted: 24438
+dropped: 102003
+removed: 0
+delivered: 1906
+delivery_prob: 0.2886
+response_prob: 0.0000
+overhead_ratio: 50.3447
+latency_avg: 3308.1808
+latency_med: 2983.4000
+hopcount_avg: 3.5136
+hopcount_med: 4
+buffertime_avg: 1263.5522
+buffertime_med: 972.9000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3308.1808002087505
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 231554.0000
+created: 6710
+started: 124027
+relayed: 99241
+aborted: 24782
+dropped: 103459
+removed: 0
+delivered: 1928
+delivery_prob: 0.2873
+response_prob: 0.0000
+overhead_ratio: 50.4735
+latency_avg: 3306.9488
+latency_med: 2982.6000
+hopcount_avg: 3.5145
+hopcount_med: 4
+buffertime_avg: 1266.0275
+buffertime_med: 975.5000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3306.948757983878
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 235179.0000
+created: 6814
+started: 125834
+relayed: 100662
+aborted: 25171
+dropped: 104921
+removed: 0
+delivered: 1957
+delivery_prob: 0.2872
+response_prob: 0.0000
+overhead_ratio: 50.4369
+latency_avg: 3318.2505
+latency_med: 2993.5000
+hopcount_avg: 3.5120
+hopcount_med: 4
+buffertime_avg: 1267.0479
+buffertime_med: 976.5000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3318.2504883270703
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 238792.0000
+created: 6919
+started: 127975
+relayed: 102407
+aborted: 25567
+dropped: 106748
+removed: 0
+delivered: 1990
+delivery_prob: 0.2876
+response_prob: 0.0000
+overhead_ratio: 50.4608
+latency_avg: 3330.4363
+latency_med: 3002.4000
+hopcount_avg: 3.5136
+hopcount_med: 4
+buffertime_avg: 1267.6677
+buffertime_med: 976.2000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3330.436284394286
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 242397.0000
+created: 7023
+started: 130041
+relayed: 104056
+aborted: 25983
+dropped: 108469
+removed: 0
+delivered: 2016
+delivery_prob: 0.2871
+response_prob: 0.0000
+overhead_ratio: 50.6151
+latency_avg: 3330.4822
+latency_med: 3007.9000
+hopcount_avg: 3.5188
+hopcount_med: 4
+buffertime_avg: 1266.9806
+buffertime_med: 975.0000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3330.4822451344326
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 246013.0000
+created: 7128
+started: 132078
+relayed: 105691
+aborted: 26384
+dropped: 110201
+removed: 0
+delivered: 2044
+delivery_prob: 0.2868
+response_prob: 0.0000
+overhead_ratio: 50.7079
+latency_avg: 3336.4379
+latency_med: 3026.2000
+hopcount_avg: 3.5201
+hopcount_med: 4
+buffertime_avg: 1266.4423
+buffertime_med: 974.8000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3336.437870085116
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 249630.0000
+created: 7233
+started: 134198
+relayed: 107415
+aborted: 26782
+dropped: 111982
+removed: 0
+delivered: 2082
+delivery_prob: 0.2878
+response_prob: 0.0000
+overhead_ratio: 50.5922
+latency_avg: 3326.5637
+latency_med: 3007.9000
+hopcount_avg: 3.5259
+hopcount_med: 4
+buffertime_avg: 1263.7492
+buffertime_med: 972.0000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3326.5636920418146
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 253259.0000
+created: 7339
+started: 136430
+relayed: 109204
+aborted: 27225
+dropped: 113841
+removed: 0
+delivered: 2124
+delivery_prob: 0.2894
+response_prob: 0.0000
+overhead_ratio: 50.4143
+latency_avg: 3327.6437
+latency_med: 3007.9000
+hopcount_avg: 3.5250
+hopcount_med: 4
+buffertime_avg: 1261.8020
+buffertime_med: 970.4000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3327.6436945563255
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 256887.0000
+created: 7445
+started: 138237
+relayed: 110654
+aborted: 27582
+dropped: 115381
+removed: 0
+delivered: 2144
+delivery_prob: 0.2880
+response_prob: 0.0000
+overhead_ratio: 50.6110
+latency_avg: 3314.4655
+latency_med: 2979.2000
+hopcount_avg: 3.5187
+hopcount_med: 4
+buffertime_avg: 1262.6932
+buffertime_med: 970.5000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3314.4654885468835
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 260494.0000
+created: 7551
+started: 140186
+relayed: 112240
+aborted: 27944
+dropped: 117022
+removed: 0
+delivered: 2175
+delivery_prob: 0.2880
+response_prob: 0.0000
+overhead_ratio: 50.6046
+latency_avg: 3308.3387
+latency_med: 2976.6000
+hopcount_avg: 3.5159
+hopcount_med: 4
+buffertime_avg: 1262.7020
+buffertime_med: 970.5000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3308.338716217051
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 264129.0000
+created: 7657
+started: 142193
+relayed: 113854
+aborted: 28338
+dropped: 118716
+removed: 0
+delivered: 2207
+delivery_prob: 0.2882
+response_prob: 0.0000
+overhead_ratio: 50.5877
+latency_avg: 3306.9608
+latency_med: 2976.5000
+hopcount_avg: 3.5134
+hopcount_med: 4
+buffertime_avg: 1262.4705
+buffertime_med: 970.4000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3306.9608101950994
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 267752.0000
+created: 7762
+started: 144189
+relayed: 115464
+aborted: 28723
+dropped: 120398
+removed: 0
+delivered: 2237
+delivery_prob: 0.2882
+response_prob: 0.0000
+overhead_ratio: 50.6156
+latency_avg: 3301.1958
+latency_med: 2974.4000
+hopcount_avg: 3.5105
+hopcount_med: 4
+buffertime_avg: 1263.0838
+buffertime_med: 970.4000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3301.1957569944952
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 271378.0000
+created: 7867
+started: 146330
+relayed: 117193
+aborted: 29136
+dropped: 122197
+removed: 0
+delivered: 2266
+delivery_prob: 0.2880
+response_prob: 0.0000
+overhead_ratio: 50.7180
+latency_avg: 3297.6562
+latency_med: 2964.7000
+hopcount_avg: 3.5088
+hopcount_med: 4
+buffertime_avg: 1262.5214
+buffertime_med: 970.4000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3297.6562262340203
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 274985.0000
+created: 7971
+started: 148283
+relayed: 118754
+aborted: 29526
+dropped: 123864
+removed: 0
+delivered: 2295
+delivery_prob: 0.2879
+response_prob: 0.0000
+overhead_ratio: 50.7447
+latency_avg: 3305.0882
+latency_med: 2976.6000
+hopcount_avg: 3.5120
+hopcount_med: 4
+buffertime_avg: 1262.6775
+buffertime_med: 971.0000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3305.088152018911
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 278609.0000
+created: 8076
+started: 150359
+relayed: 120409
+aborted: 29948
+dropped: 125601
+removed: 0
+delivered: 2326
+delivery_prob: 0.2880
+response_prob: 0.0000
+overhead_ratio: 50.7666
+latency_avg: 3301.5644
+latency_med: 2976.6000
+hopcount_avg: 3.5082
+hopcount_med: 4
+buffertime_avg: 1261.2874
+buffertime_med: 970.2000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3301.5644493167574
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 282239.0000
+created: 8181
+started: 152250
+relayed: 121928
+aborted: 30321
+dropped: 127165
+removed: 0
+delivered: 2363
+delivery_prob: 0.2888
+response_prob: 0.0000
+overhead_ratio: 50.5988
+latency_avg: 3290.2601
+latency_med: 2964.7000
+hopcount_avg: 3.5006
+hopcount_med: 4
+buffertime_avg: 1261.3226
+buffertime_med: 970.9000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3290.260054738181
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 285848.0000
+created: 8285
+started: 154337
+relayed: 123606
+aborted: 30730
+dropped: 128947
+removed: 0
+delivered: 2395
+delivery_prob: 0.2891
+response_prob: 0.0000
+overhead_ratio: 50.6100
+latency_avg: 3291.2172
+latency_med: 2974.4000
+hopcount_avg: 3.5035
+hopcount_med: 4
+buffertime_avg: 1260.0443
+buffertime_med: 969.0000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3291.2171647295954
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 289468.0000
+created: 8390
+started: 156192
+relayed: 125071
+aborted: 31120
+dropped: 130466
+removed: 0
+delivered: 2422
+delivery_prob: 0.2887
+response_prob: 0.0000
+overhead_ratio: 50.6396
+latency_avg: 3296.7886
+latency_med: 2975.1000
+hopcount_avg: 3.5066
+hopcount_med: 4
+buffertime_avg: 1260.9034
+buffertime_med: 970.4000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3296.7886497324484
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 293071.0000
+created: 8494
+started: 158152
+relayed: 126647
+aborted: 31502
+dropped: 132117
+removed: 0
+delivered: 2452
+delivery_prob: 0.2887
+response_prob: 0.0000
+overhead_ratio: 50.6505
+latency_avg: 3292.5267
+latency_med: 2974.1000
+hopcount_avg: 3.5016
+hopcount_med: 4
+buffertime_avg: 1260.2324
+buffertime_med: 970.3000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3292.526676089829
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 296685.0000
+created: 8599
+started: 160101
+relayed: 128211
+aborted: 31890
+dropped: 133726
+removed: 0
+delivered: 2485
+delivery_prob: 0.2890
+response_prob: 0.0000
+overhead_ratio: 50.5940
+latency_avg: 3296.9456
+latency_med: 2964.7000
+hopcount_avg: 3.5074
+hopcount_med: 4
+buffertime_avg: 1260.8637
+buffertime_med: 972.0000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3296.945637776726
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 300295.0000
+created: 8703
+started: 162171
+relayed: 129900
+aborted: 32269
+dropped: 135502
+removed: 0
+delivered: 2517
+delivery_prob: 0.2892
+response_prob: 0.0000
+overhead_ratio: 50.6091
+latency_avg: 3297.2358
+latency_med: 2974.4000
+hopcount_avg: 3.5121
+hopcount_med: 4
+buffertime_avg: 1260.7994
+buffertime_med: 972.0000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3297.2358402669047
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 303920.0000
+created: 8809
+started: 164170
+relayed: 131520
+aborted: 32647
+dropped: 137171
+removed: 0
+delivered: 2550
+delivery_prob: 0.2895
+response_prob: 0.0000
+overhead_ratio: 50.5765
+latency_avg: 3294.2069
+latency_med: 2974.9000
+hopcount_avg: 3.5094
+hopcount_med: 4
+buffertime_avg: 1260.2117
+buffertime_med: 971.9000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3294.2069450978533
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 307538.0000
+created: 8915
+started: 166230
+relayed: 133186
+aborted: 33042
+dropped: 138931
+removed: 0
+delivered: 2586
+delivery_prob: 0.2901
+response_prob: 0.0000
+overhead_ratio: 50.5027
+latency_avg: 3288.7193
+latency_med: 2946.9000
+hopcount_avg: 3.5043
+hopcount_med: 4
+buffertime_avg: 1259.9864
+buffertime_med: 972.5000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3288.7192614168234
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 311177.0000
+created: 9020
+started: 168105
+relayed: 134689
+aborted: 33415
+dropped: 140510
+removed: 0
+delivered: 2614
+delivery_prob: 0.2898
+response_prob: 0.0000
+overhead_ratio: 50.5260
+latency_avg: 3292.3750
+latency_med: 2950.2000
+hopcount_avg: 3.5034
+hopcount_med: 4
+buffertime_avg: 1261.2423
+buffertime_med: 974.3000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3292.374984703908
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 314787.0000
+created: 9126
+started: 170071
+relayed: 136289
+aborted: 33780
+dropped: 142197
+removed: 0
+delivered: 2648
+delivery_prob: 0.2902
+response_prob: 0.0000
+overhead_ratio: 50.4687
+latency_avg: 3292.0531
+latency_med: 2955.2000
+hopcount_avg: 3.5049
+hopcount_med: 4
+buffertime_avg: 1261.3978
+buffertime_med: 974.8000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3292.05306268079
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 318392.0000
+created: 9231
+started: 171819
+relayed: 137693
+aborted: 34125
+dropped: 143672
+removed: 0
+delivered: 2675
+delivery_prob: 0.2898
+response_prob: 0.0000
+overhead_ratio: 50.4740
+latency_avg: 3294.2816
+latency_med: 2953.7000
+hopcount_avg: 3.5058
+hopcount_med: 4
+buffertime_avg: 1262.4629
+buffertime_med: 975.4000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3294.281611187832
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 322013.0000
+created: 9335
+started: 173917
+relayed: 139394
+aborted: 34520
+dropped: 145413
+removed: 0
+delivered: 2711
+delivery_prob: 0.2904
+response_prob: 0.0000
+overhead_ratio: 50.4179
+latency_avg: 3286.6197
+latency_med: 2946.3000
+hopcount_avg: 3.5002
+hopcount_med: 4
+buffertime_avg: 1262.4393
+buffertime_med: 975.1000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3286.6197380404556
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 325641.0000
+created: 9441
+started: 175822
+relayed: 140932
+aborted: 34889
+dropped: 147051
+removed: 0
+delivered: 2745
+delivery_prob: 0.2908
+response_prob: 0.0000
+overhead_ratio: 50.3413
+latency_avg: 3291.4239
+latency_med: 2946.9000
+hopcount_avg: 3.4995
+hopcount_med: 4
+buffertime_avg: 1263.5630
+buffertime_med: 976.5000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3291.4239379608102
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 329264.0000
+created: 9545
+started: 177870
+relayed: 142577
+aborted: 35293
+dropped: 148785
+removed: 0
+delivered: 2770
+delivery_prob: 0.2902
+response_prob: 0.0000
+overhead_ratio: 50.4718
+latency_avg: 3295.9277
+latency_med: 2953.7000
+hopcount_avg: 3.5014
+hopcount_med: 4
+buffertime_avg: 1262.6128
+buffertime_med: 975.5000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3295.9277290945456
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 332878.0000
+created: 9649
+started: 179717
+relayed: 144064
+aborted: 35650
+dropped: 150362
+removed: 0
+delivered: 2801
+delivery_prob: 0.2903
+response_prob: 0.0000
+overhead_ratio: 50.4331
+latency_avg: 3291.0796
+latency_med: 2950.2000
+hopcount_avg: 3.4977
+hopcount_med: 4
+buffertime_avg: 1262.5904
+buffertime_med: 976.0000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3291.079582087845
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 336498.0000
+created: 9755
+started: 181733
+relayed: 145691
+aborted: 36040
+dropped: 152045
+removed: 0
+delivered: 2827
+delivery_prob: 0.2898
+response_prob: 0.0000
+overhead_ratio: 50.5356
+latency_avg: 3289.5383
+latency_med: 2950.2000
+hopcount_avg: 3.4963
+hopcount_med: 4
+buffertime_avg: 1262.7048
+buffertime_med: 976.5000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3289.5382770663673
+----------------------------------
+Message stats for scenario NewRouter
+sim_time: 337418.1000
+created: 9781
+started: 182141
+relayed: 146003
+aborted: 36137
+dropped: 152380
+removed: 0
+delivered: 2836
+delivery_prob: 0.2899
+response_prob: 0.0000
+overhead_ratio: 50.4820
+latency_avg: 3287.2473
+latency_med: 2946.3000
+hopcount_avg: 3.4954
+hopcount_med: 4
+buffertime_avg: 1262.9012
+buffertime_med: 977.3000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3287.247288154808
+----------------------------------
