@@ -1,0 +1,2068 @@
+Message stats for scenario EpidemicRouter
+sim_time: 3616.0000
+created: 105
+started: 1637
+relayed: 1326
+aborted: 309
+dropped: 836
+removed: 0
+delivered: 18
+delivery_prob: 0.1714
+response_prob: 0.0000
+overhead_ratio: 72.6667
+latency_avg: 1432.4944
+latency_med: 1551.4000
+hopcount_avg: 3.0556
+hopcount_med: 3
+buffertime_avg: 825.6774
+buffertime_med: 737.7000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 1432.4944444433438
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 7230.0000
+created: 210
+started: 3489
+relayed: 2803
+aborted: 685
+dropped: 2385
+removed: 0
+delivered: 35
+delivery_prob: 0.1667
+response_prob: 0.0000
+overhead_ratio: 79.0857
+latency_avg: 2293.6229
+latency_med: 1895.1000
+hopcount_avg: 3.8571
+hopcount_med: 3
+buffertime_avg: 1078.4654
+buffertime_med: 877.8000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 2293.62285714316
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 10835.0000
+created: 315
+started: 5849
+relayed: 4711
+aborted: 1134
+dropped: 4347
+removed: 0
+delivered: 60
+delivery_prob: 0.1905
+response_prob: 0.0000
+overhead_ratio: 77.5167
+latency_avg: 2899.2250
+latency_med: 2673.6000
+hopcount_avg: 4.0833
+hopcount_med: 4
+buffertime_avg: 1104.3104
+buffertime_med: 861.5000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 2899.22500000602
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 14442.0000
+created: 419
+started: 8145
+relayed: 6568
+aborted: 1576
+dropped: 6272
+removed: 0
+delivered: 77
+delivery_prob: 0.1838
+response_prob: 0.0000
+overhead_ratio: 84.2987
+latency_avg: 3144.9818
+latency_med: 2750.8000
+hopcount_avg: 4.3117
+hopcount_med: 4
+buffertime_avg: 1129.8700
+buffertime_med: 864.5000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3144.9818181919104
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 18058.0000
+created: 523
+started: 10490
+relayed: 8474
+aborted: 2015
+dropped: 8269
+removed: 0
+delivered: 98
+delivery_prob: 0.1874
+response_prob: 0.0000
+overhead_ratio: 85.4694
+latency_avg: 3375.3439
+latency_med: 2729.1000
+hopcount_avg: 4.5612
+hopcount_med: 4
+buffertime_avg: 1133.2413
+buffertime_med: 866.4000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3375.3438775661834
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 21673.0000
+created: 627
+started: 12406
+relayed: 10025
+aborted: 2378
+dropped: 9917
+removed: 0
+delivered: 115
+delivery_prob: 0.1834
+response_prob: 0.0000
+overhead_ratio: 86.1739
+latency_avg: 3690.8070
+latency_med: 2796.5000
+hopcount_avg: 4.7130
+hopcount_med: 4
+buffertime_avg: 1164.2641
+buffertime_med: 886.4000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3690.8069565336377
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 25301.0000
+created: 732
+started: 14596
+relayed: 11810
+aborted: 2785
+dropped: 11797
+removed: 0
+delivered: 132
+delivery_prob: 0.1803
+response_prob: 0.0000
+overhead_ratio: 88.4697
+latency_avg: 3825.1841
+latency_med: 2976.6000
+hopcount_avg: 4.7197
+hopcount_med: 4
+buffertime_avg: 1178.1250
+buffertime_med: 879.3000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3825.1840909118855
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 28913.0000
+created: 837
+started: 17017
+relayed: 13746
+aborted: 3270
+dropped: 13820
+removed: 0
+delivered: 162
+delivery_prob: 0.1935
+response_prob: 0.0000
+overhead_ratio: 83.8519
+latency_avg: 4130.6623
+latency_med: 3151.9000
+hopcount_avg: 4.9198
+hopcount_med: 4
+buffertime_avg: 1167.9977
+buffertime_med: 864.7000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4130.662345660865
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 32521.0000
+created: 943
+started: 18928
+relayed: 15321
+aborted: 3604
+dropped: 15500
+removed: 0
+delivered: 178
+delivery_prob: 0.1888
+response_prob: 0.0000
+overhead_ratio: 85.0730
+latency_avg: 4108.8433
+latency_med: 3138.5000
+hopcount_avg: 4.8258
+hopcount_med: 4
+buffertime_avg: 1175.0130
+buffertime_med: 876.5000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4108.843258395254
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 36137.0000
+created: 1046
+started: 20936
+relayed: 16934
+aborted: 3999
+dropped: 17203
+removed: 0
+delivered: 205
+delivery_prob: 0.1960
+response_prob: 0.0000
+overhead_ratio: 81.6049
+latency_avg: 4220.1185
+latency_med: 3164.8000
+hopcount_avg: 4.7707
+hopcount_med: 4
+buffertime_avg: 1183.9624
+buffertime_med: 875.6000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4220.118536529137
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 39755.0000
+created: 1151
+started: 22794
+relayed: 18446
+aborted: 4347
+dropped: 18778
+removed: 0
+delivered: 227
+delivery_prob: 0.1972
+response_prob: 0.0000
+overhead_ratio: 80.2599
+latency_avg: 4074.3784
+latency_med: 3048.3000
+hopcount_avg: 4.6079
+hopcount_med: 3
+buffertime_avg: 1194.6280
+buffertime_med: 880.6000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4074.378414020014
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 43367.0000
+created: 1256
+started: 24941
+relayed: 20200
+aborted: 4738
+dropped: 20605
+removed: 0
+delivered: 252
+delivery_prob: 0.2006
+response_prob: 0.0000
+overhead_ratio: 79.1587
+latency_avg: 4076.3357
+latency_med: 3105.1000
+hopcount_avg: 4.5595
+hopcount_med: 3
+buffertime_avg: 1202.4148
+buffertime_med: 886.7000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4076.3357141843367
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 46990.0000
+created: 1359
+started: 26878
+relayed: 21736
+aborted: 5140
+dropped: 22215
+removed: 0
+delivered: 272
+delivery_prob: 0.2001
+response_prob: 0.0000
+overhead_ratio: 78.9118
+latency_avg: 4037.3923
+latency_med: 3138.5000
+hopcount_avg: 4.5294
+hopcount_med: 3
+buffertime_avg: 1205.4287
+buffertime_med: 895.1000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4037.3922792901685
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 50599.0000
+created: 1464
+started: 29090
+relayed: 23545
+aborted: 5542
+dropped: 24107
+removed: 0
+delivered: 287
+delivery_prob: 0.1960
+response_prob: 0.0000
+overhead_ratio: 81.0383
+latency_avg: 4230.0805
+latency_med: 3164.8000
+hopcount_avg: 4.6934
+hopcount_med: 3
+buffertime_avg: 1206.3809
+buffertime_med: 893.2000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4230.080487667279
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 54212.0000
+created: 1569
+started: 31346
+relayed: 25349
+aborted: 5996
+dropped: 25993
+removed: 0
+delivered: 312
+delivery_prob: 0.1989
+response_prob: 0.0000
+overhead_ratio: 80.2468
+latency_avg: 4209.6163
+latency_med: 3164.8000
+hopcount_avg: 4.6442
+hopcount_med: 3
+buffertime_avg: 1205.8595
+buffertime_med: 894.5000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4209.616345988323
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 57826.0000
+created: 1673
+started: 33357
+relayed: 26953
+aborted: 6403
+dropped: 27693
+removed: 0
+delivered: 330
+delivery_prob: 0.1973
+response_prob: 0.0000
+overhead_ratio: 80.6758
+latency_avg: 4199.6006
+latency_med: 3183.6000
+hopcount_avg: 4.6000
+hopcount_med: 3
+buffertime_avg: 1209.7391
+buffertime_med: 899.1000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4199.60060587482
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 61447.0000
+created: 1776
+started: 35506
+relayed: 28708
+aborted: 6795
+dropped: 29519
+removed: 0
+delivered: 351
+delivery_prob: 0.1976
+response_prob: 0.0000
+overhead_ratio: 80.7892
+latency_avg: 4255.3778
+latency_med: 3230.1000
+hopcount_avg: 4.6040
+hopcount_med: 3
+buffertime_avg: 1210.6468
+buffertime_med: 901.8000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4255.377777567853
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 65060.0000
+created: 1881
+started: 37644
+relayed: 30437
+aborted: 7205
+dropped: 31332
+removed: 0
+delivered: 369
+delivery_prob: 0.1962
+response_prob: 0.0000
+overhead_ratio: 81.4851
+latency_avg: 4243.7496
+latency_med: 3174.8000
+hopcount_avg: 4.6043
+hopcount_med: 3
+buffertime_avg: 1208.2560
+buffertime_med: 893.1000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4243.749593264898
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 68688.0000
+created: 1986
+started: 39880
+relayed: 32268
+aborted: 7610
+dropped: 33265
+removed: 0
+delivered: 392
+delivery_prob: 0.1974
+response_prob: 0.0000
+overhead_ratio: 81.3163
+latency_avg: 4187.3663
+latency_med: 3183.6000
+hopcount_avg: 4.5536
+hopcount_med: 3
+buffertime_avg: 1209.8129
+buffertime_med: 897.8000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4187.366326278521
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 72316.0000
+created: 2091
+started: 42080
+relayed: 34042
+aborted: 8037
+dropped: 35092
+removed: 0
+delivered: 412
+delivery_prob: 0.1970
+response_prob: 0.0000
+overhead_ratio: 81.6262
+latency_avg: 4332.8019
+latency_med: 3307.6000
+hopcount_avg: 4.7160
+hopcount_med: 4
+buffertime_avg: 1206.4167
+buffertime_med: 895.1000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4332.801941489624
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 75940.0000
+created: 2196
+started: 44229
+relayed: 35766
+aborted: 8460
+dropped: 36906
+removed: 0
+delivered: 433
+delivery_prob: 0.1972
+response_prob: 0.0000
+overhead_ratio: 81.6005
+latency_avg: 4388.2695
+latency_med: 3307.6000
+hopcount_avg: 4.7483
+hopcount_med: 3
+buffertime_avg: 1208.6689
+buffertime_med: 899.2000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4388.269514758283
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 79561.0000
+created: 2300
+started: 46488
+relayed: 37619
+aborted: 8868
+dropped: 38836
+removed: 0
+delivered: 457
+delivery_prob: 0.1987
+response_prob: 0.0000
+overhead_ratio: 81.3173
+latency_avg: 4375.9451
+latency_med: 3278.7000
+hopcount_avg: 4.7746
+hopcount_med: 4
+buffertime_avg: 1208.3241
+buffertime_med: 898.9000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4375.945076348703
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 83177.0000
+created: 2405
+started: 48848
+relayed: 39561
+aborted: 9287
+dropped: 40826
+removed: 0
+delivered: 480
+delivery_prob: 0.1996
+response_prob: 0.0000
+overhead_ratio: 81.4188
+latency_avg: 4427.5329
+latency_med: 3307.6000
+hopcount_avg: 4.8375
+hopcount_med: 4
+buffertime_avg: 1205.0094
+buffertime_med: 897.9000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4427.532916451366
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 86812.0000
+created: 2512
+started: 51112
+relayed: 41417
+aborted: 9692
+dropped: 42791
+removed: 0
+delivered: 495
+delivery_prob: 0.1971
+response_prob: 0.0000
+overhead_ratio: 82.6707
+latency_avg: 4395.3034
+latency_med: 3307.6000
+hopcount_avg: 4.8081
+hopcount_med: 4
+buffertime_avg: 1206.8627
+buffertime_med: 898.0000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4395.303434146881
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 90442.0000
+created: 2618
+started: 53154
+relayed: 43065
+aborted: 10085
+dropped: 44556
+removed: 0
+delivered: 518
+delivery_prob: 0.1979
+response_prob: 0.0000
+overhead_ratio: 82.1371
+latency_avg: 4375.9336
+latency_med: 3291.2000
+hopcount_avg: 4.7876
+hopcount_med: 4
+buffertime_avg: 1209.4912
+buffertime_med: 901.0000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4375.933590574506
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 94058.0000
+created: 2723
+started: 55447
+relayed: 44932
+aborted: 10514
+dropped: 46472
+removed: 0
+delivered: 548
+delivery_prob: 0.2012
+response_prob: 0.0000
+overhead_ratio: 80.9927
+latency_avg: 4406.2086
+latency_med: 3337.2000
+hopcount_avg: 4.7482
+hopcount_med: 4
+buffertime_avg: 1208.7827
+buffertime_med: 899.8000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4406.208576539998
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 97695.0000
+created: 2828
+started: 57717
+relayed: 46789
+aborted: 10927
+dropped: 48408
+removed: 0
+delivered: 558
+delivery_prob: 0.1973
+response_prob: 0.0000
+overhead_ratio: 82.8513
+latency_avg: 4409.5889
+latency_med: 3392.0000
+hopcount_avg: 4.7509
+hopcount_med: 4
+buffertime_avg: 1206.7490
+buffertime_med: 898.2000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4409.588888805841
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 101314.0000
+created: 2933
+started: 59948
+relayed: 48623
+aborted: 11324
+dropped: 50346
+removed: 0
+delivered: 578
+delivery_prob: 0.1971
+response_prob: 0.0000
+overhead_ratio: 83.1228
+latency_avg: 4436.4412
+latency_med: 3392.0000
+hopcount_avg: 4.7612
+hopcount_med: 4
+buffertime_avg: 1208.4866
+buffertime_med: 899.7000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4436.441176433184
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 104944.0000
+created: 3038
+started: 62203
+relayed: 50468
+aborted: 11734
+dropped: 52286
+removed: 0
+delivered: 599
+delivery_prob: 0.1972
+response_prob: 0.0000
+overhead_ratio: 83.2538
+latency_avg: 4428.4157
+latency_med: 3392.0000
+hopcount_avg: 4.7663
+hopcount_med: 4
+buffertime_avg: 1205.2293
+buffertime_med: 895.9000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4428.415692835794
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 108549.0000
+created: 3144
+started: 64440
+relayed: 52282
+aborted: 12156
+dropped: 54196
+removed: 0
+delivered: 627
+delivery_prob: 0.1994
+response_prob: 0.0000
+overhead_ratio: 82.3844
+latency_avg: 4471.2069
+latency_med: 3408.5000
+hopcount_avg: 4.8262
+hopcount_med: 4
+buffertime_avg: 1204.9187
+buffertime_med: 894.3000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4471.206858140022
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 112159.0000
+created: 3248
+started: 66408
+relayed: 53872
+aborted: 12535
+dropped: 55855
+removed: 0
+delivered: 639
+delivery_prob: 0.1967
+response_prob: 0.0000
+overhead_ratio: 83.3067
+latency_avg: 4489.2156
+latency_med: 3392.0000
+hopcount_avg: 4.8341
+hopcount_med: 4
+buffertime_avg: 1208.6980
+buffertime_med: 900.3000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4489.215649572587
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 115785.0000
+created: 3353
+started: 68568
+relayed: 55630
+aborted: 12938
+dropped: 57700
+removed: 0
+delivered: 659
+delivery_prob: 0.1965
+response_prob: 0.0000
+overhead_ratio: 83.4158
+latency_avg: 4490.2103
+latency_med: 3408.5000
+hopcount_avg: 4.8073
+hopcount_med: 4
+buffertime_avg: 1209.9630
+buffertime_med: 902.3000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4490.21031884676
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 119387.0000
+created: 3458
+started: 70730
+relayed: 57392
+aborted: 13337
+dropped: 59539
+removed: 0
+delivered: 680
+delivery_prob: 0.1966
+response_prob: 0.0000
+overhead_ratio: 83.4000
+latency_avg: 4527.4674
+latency_med: 3410.9000
+hopcount_avg: 4.8221
+hopcount_med: 4
+buffertime_avg: 1209.9744
+buffertime_med: 903.1000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4527.467353189607
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 123017.0000
+created: 3563
+started: 72800
+relayed: 59064
+aborted: 13735
+dropped: 61294
+removed: 0
+delivered: 705
+delivery_prob: 0.1979
+response_prob: 0.0000
+overhead_ratio: 82.7787
+latency_avg: 4532.6756
+latency_med: 3397.9000
+hopcount_avg: 4.8241
+hopcount_med: 4
+buffertime_avg: 1211.5748
+buffertime_med: 904.5000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4532.675603167467
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 126625.0000
+created: 3667
+started: 74766
+relayed: 60655
+aborted: 14110
+dropped: 62970
+removed: 0
+delivered: 719
+delivery_prob: 0.1961
+response_prob: 0.0000
+overhead_ratio: 83.3602
+latency_avg: 4540.6986
+latency_med: 3408.5000
+hopcount_avg: 4.8220
+hopcount_med: 4
+buffertime_avg: 1216.3605
+buffertime_med: 907.9000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4540.698609557823
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 130250.0000
+created: 3771
+started: 76787
+relayed: 62309
+aborted: 14476
+dropped: 64699
+removed: 0
+delivered: 739
+delivery_prob: 0.1960
+response_prob: 0.0000
+overhead_ratio: 83.3153
+latency_avg: 4528.1148
+latency_med: 3392.0000
+hopcount_avg: 4.7984
+hopcount_med: 4
+buffertime_avg: 1220.4353
+buffertime_med: 910.8000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4528.114750110951
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 133864.0000
+created: 3876
+started: 79012
+relayed: 64122
+aborted: 14888
+dropped: 66621
+removed: 0
+delivered: 757
+delivery_prob: 0.1953
+response_prob: 0.0000
+overhead_ratio: 83.7054
+latency_avg: 4551.3587
+latency_med: 3337.2000
+hopcount_avg: 4.8071
+hopcount_med: 4
+buffertime_avg: 1218.3665
+buffertime_med: 908.8000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4551.358653089915
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 137496.0000
+created: 3982
+started: 81482
+relayed: 66112
+aborted: 15367
+dropped: 68654
+removed: 0
+delivered: 785
+delivery_prob: 0.1971
+response_prob: 0.0000
+overhead_ratio: 83.2191
+latency_avg: 4560.2971
+latency_med: 3392.0000
+hopcount_avg: 4.8076
+hopcount_med: 4
+buffertime_avg: 1216.5168
+buffertime_med: 907.4000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4560.297070681127
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 141133.0000
+created: 4088
+started: 83569
+relayed: 67793
+aborted: 15774
+dropped: 70444
+removed: 0
+delivered: 804
+delivery_prob: 0.1967
+response_prob: 0.0000
+overhead_ratio: 83.3197
+latency_avg: 4558.9262
+latency_med: 3337.2000
+hopcount_avg: 4.7960
+hopcount_med: 4
+buffertime_avg: 1217.7033
+buffertime_med: 906.7000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4558.926244469505
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 144744.0000
+created: 4193
+started: 86000
+relayed: 69798
+aborted: 16201
+dropped: 72507
+removed: 0
+delivered: 826
+delivery_prob: 0.1970
+response_prob: 0.0000
+overhead_ratio: 83.5012
+latency_avg: 4616.4841
+latency_med: 3392.0000
+hopcount_avg: 4.8487
+hopcount_med: 4
+buffertime_avg: 1216.2681
+buffertime_med: 904.7000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4616.48414120823
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 148358.0000
+created: 4298
+started: 88399
+relayed: 71730
+aborted: 16668
+dropped: 74531
+removed: 0
+delivered: 855
+delivery_prob: 0.1989
+response_prob: 0.0000
+overhead_ratio: 82.8947
+latency_avg: 4605.9377
+latency_med: 3371.0000
+hopcount_avg: 4.8444
+hopcount_med: 4
+buffertime_avg: 1214.2789
+buffertime_med: 903.0000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4605.937661682862
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 151978.0000
+created: 4402
+started: 90803
+relayed: 73673
+aborted: 17130
+dropped: 76585
+removed: 0
+delivered: 868
+delivery_prob: 0.1972
+response_prob: 0.0000
+overhead_ratio: 83.8767
+latency_avg: 4614.6088
+latency_med: 3371.0000
+hopcount_avg: 4.8710
+hopcount_med: 4
+buffertime_avg: 1211.5620
+buffertime_med: 899.9000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4614.608756675183
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 155604.0000
+created: 4508
+started: 93062
+relayed: 75498
+aborted: 17562
+dropped: 78499
+removed: 0
+delivered: 885
+delivery_prob: 0.1963
+response_prob: 0.0000
+overhead_ratio: 84.3085
+latency_avg: 4596.9701
+latency_med: 3337.8000
+hopcount_avg: 4.8475
+hopcount_med: 4
+buffertime_avg: 1211.5667
+buffertime_med: 901.1000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4596.970057475184
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 159228.0000
+created: 4614
+started: 95073
+relayed: 77141
+aborted: 17931
+dropped: 80219
+removed: 0
+delivered: 907
+delivery_prob: 0.1966
+response_prob: 0.0000
+overhead_ratio: 84.0507
+latency_avg: 4619.6482
+latency_med: 3408.5000
+hopcount_avg: 4.8611
+hopcount_med: 4
+buffertime_avg: 1213.7440
+buffertime_med: 904.7000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4619.648181878473
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 162852.0000
+created: 4720
+started: 97394
+relayed: 79051
+aborted: 18341
+dropped: 82237
+removed: 0
+delivered: 919
+delivery_prob: 0.1947
+response_prob: 0.0000
+overhead_ratio: 85.0185
+latency_avg: 4605.4478
+latency_med: 3408.5000
+hopcount_avg: 4.8553
+hopcount_med: 4
+buffertime_avg: 1211.9818
+buffertime_med: 900.7000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4605.4477704218
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 166470.0000
+created: 4824
+started: 99389
+relayed: 80670
+aborted: 18718
+dropped: 83939
+removed: 0
+delivered: 940
+delivery_prob: 0.1949
+response_prob: 0.0000
+overhead_ratio: 84.8191
+latency_avg: 4609.2461
+latency_med: 3410.9000
+hopcount_avg: 4.8702
+hopcount_med: 4
+buffertime_avg: 1212.4583
+buffertime_med: 901.5000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4609.246065026116
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 170089.0000
+created: 4930
+started: 101617
+relayed: 82515
+aborted: 19100
+dropped: 85864
+removed: 0
+delivered: 967
+delivery_prob: 0.1961
+response_prob: 0.0000
+overhead_ratio: 84.3309
+latency_avg: 4647.9757
+latency_med: 3416.7000
+hopcount_avg: 4.8976
+hopcount_med: 4
+buffertime_avg: 1212.3040
+buffertime_med: 900.4000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4647.975699340684
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 173712.0000
+created: 5037
+started: 103851
+relayed: 84325
+aborted: 19524
+dropped: 87743
+removed: 0
+delivered: 979
+delivery_prob: 0.1944
+response_prob: 0.0000
+overhead_ratio: 85.1338
+latency_avg: 4658.1008
+latency_med: 3408.5000
+hopcount_avg: 4.9070
+hopcount_med: 4
+buffertime_avg: 1212.7242
+buffertime_med: 900.6000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4658.100818517403
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 177319.0000
+created: 5141
+started: 105960
+relayed: 86056
+aborted: 19904
+dropped: 89575
+removed: 0
+delivered: 999
+delivery_prob: 0.1943
+response_prob: 0.0000
+overhead_ratio: 85.1421
+latency_avg: 4661.7969
+latency_med: 3408.5000
+hopcount_avg: 4.9259
+hopcount_med: 4
+buffertime_avg: 1212.9891
+buffertime_med: 903.7000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4661.796898341379
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 180932.0000
+created: 5245
+started: 108307
+relayed: 87947
+aborted: 20357
+dropped: 91573
+removed: 0
+delivered: 1019
+delivery_prob: 0.1943
+response_prob: 0.0000
+overhead_ratio: 85.3072
+latency_avg: 4634.8426
+latency_med: 3392.0000
+hopcount_avg: 4.9215
+hopcount_med: 4
+buffertime_avg: 1211.3653
+buffertime_med: 902.6000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4634.842592302038
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 184552.0000
+created: 5349
+started: 110324
+relayed: 89564
+aborted: 20757
+dropped: 93282
+removed: 0
+delivered: 1038
+delivery_prob: 0.1941
+response_prob: 0.0000
+overhead_ratio: 85.2852
+latency_avg: 4631.8092
+latency_med: 3371.0000
+hopcount_avg: 4.9335
+hopcount_med: 4
+buffertime_avg: 1212.4355
+buffertime_med: 905.5000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4631.809153827274
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 188170.0000
+created: 5453
+started: 112273
+relayed: 91131
+aborted: 21139
+dropped: 94940
+removed: 0
+delivered: 1050
+delivery_prob: 0.1926
+response_prob: 0.0000
+overhead_ratio: 85.7914
+latency_avg: 4643.1420
+latency_med: 3408.5000
+hopcount_avg: 4.9438
+hopcount_med: 4
+buffertime_avg: 1213.5300
+buffertime_med: 906.8000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4643.142001665718
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 191773.0000
+created: 5557
+started: 114541
+relayed: 92932
+aborted: 21607
+dropped: 96838
+removed: 0
+delivered: 1068
+delivery_prob: 0.1922
+response_prob: 0.0000
+overhead_ratio: 86.0150
+latency_avg: 4627.2842
+latency_med: 3416.7000
+hopcount_avg: 4.9307
+hopcount_med: 4
+buffertime_avg: 1213.1339
+buffertime_med: 906.1000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4627.284177778604
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 195401.0000
+created: 5663
+started: 116527
+relayed: 94533
+aborted: 21992
+dropped: 98505
+removed: 0
+delivered: 1091
+delivery_prob: 0.1927
+response_prob: 0.0000
+overhead_ratio: 85.6480
+latency_avg: 4631.4881
+latency_med: 3416.7000
+hopcount_avg: 4.9313
+hopcount_med: 4
+buffertime_avg: 1212.5696
+buffertime_med: 907.5000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4631.488086180997
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 199038.0000
+created: 5768
+started: 118567
+relayed: 96167
+aborted: 22397
+dropped: 100241
+removed: 0
+delivered: 1114
+delivery_prob: 0.1931
+response_prob: 0.0000
+overhead_ratio: 85.3259
+latency_avg: 4634.3633
+latency_med: 3446.4000
+hopcount_avg: 4.9282
+hopcount_med: 4
+buffertime_avg: 1214.1114
+buffertime_med: 908.7000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4634.3632874190935
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 202642.0000
+created: 5873
+started: 120636
+relayed: 97845
+aborted: 22789
+dropped: 101997
+removed: 0
+delivered: 1132
+delivery_prob: 0.1927
+response_prob: 0.0000
+overhead_ratio: 85.4355
+latency_avg: 4618.0967
+latency_med: 3431.8000
+hopcount_avg: 4.9152
+hopcount_med: 4
+buffertime_avg: 1213.9022
+buffertime_med: 908.1000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4618.096733493759
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 206245.0000
+created: 5976
+started: 122917
+relayed: 99691
+aborted: 23225
+dropped: 103884
+removed: 0
+delivered: 1157
+delivery_prob: 0.1936
+response_prob: 0.0000
+overhead_ratio: 85.1634
+latency_avg: 4652.5387
+latency_med: 3433.0000
+hopcount_avg: 4.9464
+hopcount_med: 4
+buffertime_avg: 1212.6128
+buffertime_med: 906.9000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4652.538722991184
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 209861.0000
+created: 6080
+started: 124795
+relayed: 101191
+aborted: 23603
+dropped: 105470
+removed: 0
+delivered: 1179
+delivery_prob: 0.1939
+response_prob: 0.0000
+overhead_ratio: 84.8278
+latency_avg: 4656.2889
+latency_med: 3446.4000
+hopcount_avg: 4.9440
+hopcount_med: 4
+buffertime_avg: 1214.5674
+buffertime_med: 908.8000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4656.288891145426
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 213476.0000
+created: 6185
+started: 126881
+relayed: 102877
+aborted: 24003
+dropped: 107249
+removed: 0
+delivered: 1194
+delivery_prob: 0.1930
+response_prob: 0.0000
+overhead_ratio: 85.1616
+latency_avg: 4646.6132
+latency_med: 3416.7000
+hopcount_avg: 4.9372
+hopcount_med: 4
+buffertime_avg: 1215.8219
+buffertime_med: 909.7000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4646.61315140541
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 217093.0000
+created: 6289
+started: 128849
+relayed: 104470
+aborted: 24379
+dropped: 108889
+removed: 0
+delivered: 1216
+delivery_prob: 0.1934
+response_prob: 0.0000
+overhead_ratio: 84.9128
+latency_avg: 4643.4537
+latency_med: 3431.8000
+hopcount_avg: 4.9375
+hopcount_med: 4
+buffertime_avg: 1217.4201
+buffertime_med: 911.7000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4643.45370308774
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 220705.0000
+created: 6394
+started: 130991
+relayed: 106224
+aborted: 24764
+dropped: 110753
+removed: 0
+delivered: 1241
+delivery_prob: 0.1941
+response_prob: 0.0000
+overhead_ratio: 84.5955
+latency_avg: 4613.8002
+latency_med: 3408.5000
+hopcount_avg: 4.8936
+hopcount_med: 4
+buffertime_avg: 1218.7791
+buffertime_med: 911.9000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4613.80024428786
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 224327.0000
+created: 6500
+started: 133037
+relayed: 107878
+aborted: 25159
+dropped: 112489
+removed: 0
+delivered: 1268
+delivery_prob: 0.1951
+response_prob: 0.0000
+overhead_ratio: 84.0773
+latency_avg: 4625.8815
+latency_med: 3410.9000
+hopcount_avg: 4.9117
+hopcount_med: 4
+buffertime_avg: 1219.5623
+buffertime_med: 913.5000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4625.88154840771
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 227941.0000
+created: 6605
+started: 134844
+relayed: 109345
+aborted: 25497
+dropped: 114054
+removed: 0
+delivered: 1293
+delivery_prob: 0.1958
+response_prob: 0.0000
+overhead_ratio: 83.5669
+latency_avg: 4646.1755
+latency_med: 3431.8000
+hopcount_avg: 4.9242
+hopcount_med: 4
+buffertime_avg: 1222.5973
+buffertime_med: 916.2000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4646.175486154636
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 231554.0000
+created: 6710
+started: 136713
+relayed: 110861
+aborted: 25847
+dropped: 115655
+removed: 0
+delivered: 1313
+delivery_prob: 0.1957
+response_prob: 0.0000
+overhead_ratio: 83.4334
+latency_avg: 4628.0849
+latency_med: 3410.9000
+hopcount_avg: 4.9025
+hopcount_med: 4
+buffertime_avg: 1225.0143
+buffertime_med: 918.3000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4628.0849229058385
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 235179.0000
+created: 6814
+started: 138623
+relayed: 112372
+aborted: 26250
+dropped: 117233
+removed: 0
+delivered: 1330
+delivery_prob: 0.1952
+response_prob: 0.0000
+overhead_ratio: 83.4902
+latency_avg: 4611.4826
+latency_med: 3392.0000
+hopcount_avg: 4.8850
+hopcount_med: 4
+buffertime_avg: 1226.3704
+buffertime_med: 919.5000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4611.482634533418
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 238792.0000
+created: 6919
+started: 141047
+relayed: 114364
+aborted: 26682
+dropped: 119280
+removed: 0
+delivered: 1348
+delivery_prob: 0.1948
+response_prob: 0.0000
+overhead_ratio: 83.8398
+latency_avg: 4594.4754
+latency_med: 3364.9000
+hopcount_avg: 4.8754
+hopcount_med: 4
+buffertime_avg: 1226.4906
+buffertime_med: 918.6000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4594.475373958901
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 242397.0000
+created: 7023
+started: 143333
+relayed: 116229
+aborted: 27103
+dropped: 121251
+removed: 0
+delivered: 1368
+delivery_prob: 0.1948
+response_prob: 0.0000
+overhead_ratio: 83.9627
+latency_avg: 4606.2927
+latency_med: 3392.0000
+hopcount_avg: 4.8860
+hopcount_med: 4
+buffertime_avg: 1225.6894
+buffertime_med: 917.3000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4606.292693191935
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 246013.0000
+created: 7128
+started: 145552
+relayed: 118029
+aborted: 27520
+dropped: 123150
+removed: 0
+delivered: 1386
+delivery_prob: 0.1944
+response_prob: 0.0000
+overhead_ratio: 84.1580
+latency_avg: 4637.5131
+latency_med: 3408.5000
+hopcount_avg: 4.9113
+hopcount_med: 4
+buffertime_avg: 1225.2659
+buffertime_med: 916.7000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4637.513134518258
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 249630.0000
+created: 7233
+started: 147964
+relayed: 120017
+aborted: 27946
+dropped: 125191
+removed: 0
+delivered: 1411
+delivery_prob: 0.1951
+response_prob: 0.0000
+overhead_ratio: 84.0581
+latency_avg: 4647.5086
+latency_med: 3416.7000
+hopcount_avg: 4.9369
+hopcount_med: 4
+buffertime_avg: 1222.4242
+buffertime_med: 913.8000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4647.508578802754
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 253259.0000
+created: 7339
+started: 150445
+relayed: 122035
+aborted: 28409
+dropped: 127323
+removed: 0
+delivered: 1430
+delivery_prob: 0.1948
+response_prob: 0.0000
+overhead_ratio: 84.3392
+latency_avg: 4635.3652
+latency_med: 3431.8000
+hopcount_avg: 4.9371
+hopcount_med: 4
+buffertime_avg: 1220.5925
+buffertime_med: 910.9000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4635.3651782402785
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 256887.0000
+created: 7445
+started: 152456
+relayed: 123678
+aborted: 28777
+dropped: 129058
+removed: 0
+delivered: 1449
+delivery_prob: 0.1946
+response_prob: 0.0000
+overhead_ratio: 84.3540
+latency_avg: 4631.9026
+latency_med: 3410.9000
+hopcount_avg: 4.9379
+hopcount_med: 4
+buffertime_avg: 1221.3861
+buffertime_med: 911.5000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4631.902626004125
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 260494.0000
+created: 7551
+started: 154610
+relayed: 125448
+aborted: 29160
+dropped: 130912
+removed: 0
+delivered: 1467
+delivery_prob: 0.1943
+response_prob: 0.0000
+overhead_ratio: 84.5133
+latency_avg: 4628.8477
+latency_med: 3416.7000
+hopcount_avg: 4.9407
+hopcount_med: 4
+buffertime_avg: 1221.2858
+buffertime_med: 911.1000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4628.847651853989
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 264129.0000
+created: 7657
+started: 156840
+relayed: 127255
+aborted: 29583
+dropped: 132791
+removed: 0
+delivered: 1486
+delivery_prob: 0.1941
+response_prob: 0.0000
+overhead_ratio: 84.6359
+latency_avg: 4623.4151
+latency_med: 3410.9000
+hopcount_avg: 4.9394
+hopcount_med: 4
+buffertime_avg: 1220.4685
+buffertime_med: 910.7000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4623.415145000159
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 267752.0000
+created: 7762
+started: 158975
+relayed: 128993
+aborted: 29980
+dropped: 134636
+removed: 0
+delivered: 1509
+delivery_prob: 0.1944
+response_prob: 0.0000
+overhead_ratio: 84.4824
+latency_avg: 4623.0543
+latency_med: 3400.0000
+hopcount_avg: 4.9324
+hopcount_med: 4
+buffertime_avg: 1221.1588
+buffertime_med: 910.7000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4623.054344398024
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 271378.0000
+created: 7867
+started: 161243
+relayed: 130836
+aborted: 30405
+dropped: 136564
+removed: 0
+delivered: 1530
+delivery_prob: 0.1945
+response_prob: 0.0000
+overhead_ratio: 84.5137
+latency_avg: 4592.4674
+latency_med: 3386.4000
+hopcount_avg: 4.9111
+hopcount_med: 4
+buffertime_avg: 1220.7544
+buffertime_med: 911.1000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4592.467389467192
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 274985.0000
+created: 7971
+started: 163290
+relayed: 132486
+aborted: 30801
+dropped: 138294
+removed: 0
+delivered: 1548
+delivery_prob: 0.1942
+response_prob: 0.0000
+overhead_ratio: 84.5853
+latency_avg: 4601.1364
+latency_med: 3392.0000
+hopcount_avg: 4.9128
+hopcount_med: 4
+buffertime_avg: 1220.9852
+buffertime_med: 911.9000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4601.136373405444
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 278609.0000
+created: 8076
+started: 165636
+relayed: 134382
+aborted: 31252
+dropped: 140249
+removed: 0
+delivered: 1573
+delivery_prob: 0.1948
+response_prob: 0.0000
+overhead_ratio: 84.4304
+latency_avg: 4593.1732
+latency_med: 3386.4000
+hopcount_avg: 4.9129
+hopcount_med: 4
+buffertime_avg: 1220.1258
+buffertime_med: 911.1000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4593.173176233849
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 282239.0000
+created: 8181
+started: 167702
+relayed: 136058
+aborted: 31643
+dropped: 142030
+removed: 0
+delivered: 1597
+delivery_prob: 0.1952
+response_prob: 0.0000
+overhead_ratio: 84.1960
+latency_avg: 4567.4312
+latency_med: 3349.9000
+hopcount_avg: 4.8867
+hopcount_med: 4
+buffertime_avg: 1220.4477
+buffertime_med: 912.2000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4567.431187460037
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 285848.0000
+created: 8285
+started: 170082
+relayed: 137996
+aborted: 32085
+dropped: 144045
+removed: 0
+delivered: 1616
+delivery_prob: 0.1951
+response_prob: 0.0000
+overhead_ratio: 84.3936
+latency_avg: 4574.9295
+latency_med: 3353.3000
+hopcount_avg: 4.8923
+hopcount_med: 4
+buffertime_avg: 1219.0643
+buffertime_med: 910.6000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4574.929521337223
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 289468.0000
+created: 8390
+started: 172123
+relayed: 139648
+aborted: 32474
+dropped: 145798
+removed: 0
+delivered: 1632
+delivery_prob: 0.1945
+response_prob: 0.0000
+overhead_ratio: 84.5686
+latency_avg: 4569.4550
+latency_med: 3337.8000
+hopcount_avg: 4.8860
+hopcount_med: 4
+buffertime_avg: 1219.7051
+buffertime_med: 911.7000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4569.4550285280375
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 293071.0000
+created: 8494
+started: 174196
+relayed: 141316
+aborted: 32877
+dropped: 147546
+removed: 0
+delivered: 1654
+delivery_prob: 0.1947
+response_prob: 0.0000
+overhead_ratio: 84.4389
+latency_avg: 4571.1177
+latency_med: 3349.9000
+hopcount_avg: 4.8791
+hopcount_med: 4
+buffertime_avg: 1219.7514
+buffertime_med: 911.8000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4571.117658189413
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 296685.0000
+created: 8599
+started: 176293
+relayed: 143017
+aborted: 33276
+dropped: 149320
+removed: 0
+delivered: 1668
+delivery_prob: 0.1940
+response_prob: 0.0000
+overhead_ratio: 84.7416
+latency_avg: 4579.6127
+latency_med: 3349.9000
+hopcount_avg: 4.8849
+hopcount_med: 4
+buffertime_avg: 1220.3886
+buffertime_med: 913.4000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4579.61271384194
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 300295.0000
+created: 8703
+started: 178633
+relayed: 144954
+aborted: 33676
+dropped: 151338
+removed: 0
+delivered: 1689
+delivery_prob: 0.1941
+response_prob: 0.0000
+overhead_ratio: 84.8224
+latency_avg: 4572.1367
+latency_med: 3337.2000
+hopcount_avg: 4.8792
+hopcount_med: 4
+buffertime_avg: 1219.8706
+buffertime_med: 912.1000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4572.136652892973
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 303920.0000
+created: 8809
+started: 180844
+relayed: 146769
+aborted: 34073
+dropped: 153228
+removed: 0
+delivered: 1711
+delivery_prob: 0.1942
+response_prob: 0.0000
+overhead_ratio: 84.7797
+latency_avg: 4566.0732
+latency_med: 3327.8000
+hopcount_avg: 4.8656
+hopcount_med: 4
+buffertime_avg: 1219.0958
+buffertime_med: 911.7000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4566.07317753749
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 307538.0000
+created: 8915
+started: 183156
+relayed: 148671
+aborted: 34483
+dropped: 155211
+removed: 0
+delivered: 1732
+delivery_prob: 0.1943
+response_prob: 0.0000
+overhead_ratio: 84.8378
+latency_avg: 4559.2762
+latency_med: 3327.8000
+hopcount_avg: 4.8545
+hopcount_med: 4
+buffertime_avg: 1218.6725
+buffertime_med: 911.4000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4559.2761586489
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 311177.0000
+created: 9020
+started: 185220
+relayed: 150351
+aborted: 34868
+dropped: 157000
+removed: 0
+delivered: 1749
+delivery_prob: 0.1939
+response_prob: 0.0000
+overhead_ratio: 84.9640
+latency_avg: 4563.6865
+latency_med: 3337.8000
+hopcount_avg: 4.8468
+hopcount_med: 4
+buffertime_avg: 1219.6128
+buffertime_med: 913.0000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4563.686510449729
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 314787.0000
+created: 9126
+started: 187332
+relayed: 152073
+aborted: 35257
+dropped: 158821
+removed: 0
+delivered: 1770
+delivery_prob: 0.1940
+response_prob: 0.0000
+overhead_ratio: 84.9169
+latency_avg: 4562.0246
+latency_med: 3357.2000
+hopcount_avg: 4.8418
+hopcount_med: 4
+buffertime_avg: 1219.7601
+buffertime_med: 914.2000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4562.0245800867815
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 318392.0000
+created: 9231
+started: 189335
+relayed: 153706
+aborted: 35628
+dropped: 160510
+removed: 0
+delivered: 1781
+delivery_prob: 0.1929
+response_prob: 0.0000
+overhead_ratio: 85.3032
+latency_avg: 4556.9991
+latency_med: 3337.8000
+hopcount_avg: 4.8372
+hopcount_med: 4
+buffertime_avg: 1220.9108
+buffertime_med: 914.2000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4556.999105409316
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 322013.0000
+created: 9335
+started: 191562
+relayed: 155527
+aborted: 36032
+dropped: 162432
+removed: 0
+delivered: 1804
+delivery_prob: 0.1933
+response_prob: 0.0000
+overhead_ratio: 85.2123
+latency_avg: 4553.6628
+latency_med: 3321.0000
+hopcount_avg: 4.8376
+hopcount_med: 4
+buffertime_avg: 1220.8264
+buffertime_med: 914.0000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4553.662808575102
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 325641.0000
+created: 9441
+started: 193602
+relayed: 157186
+aborted: 36415
+dropped: 164179
+removed: 0
+delivered: 1828
+delivery_prob: 0.1936
+response_prob: 0.0000
+overhead_ratio: 84.9880
+latency_avg: 4551.5320
+latency_med: 3337.8000
+hopcount_avg: 4.8353
+hopcount_med: 4
+buffertime_avg: 1221.7111
+buffertime_med: 915.0000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4551.531951083392
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 329264.0000
+created: 9545
+started: 195806
+relayed: 158979
+aborted: 36827
+dropped: 166064
+removed: 0
+delivered: 1847
+delivery_prob: 0.1935
+response_prob: 0.0000
+overhead_ratio: 85.0742
+latency_avg: 4552.2058
+latency_med: 3337.2000
+hopcount_avg: 4.8376
+hopcount_med: 4
+buffertime_avg: 1221.2791
+buffertime_med: 914.0000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4552.205796695939
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 332878.0000
+created: 9649
+started: 197869
+relayed: 160662
+aborted: 37205
+dropped: 167832
+removed: 0
+delivered: 1864
+delivery_prob: 0.1932
+response_prob: 0.0000
+overhead_ratio: 85.1921
+latency_avg: 4545.0443
+latency_med: 3316.0000
+hopcount_avg: 4.8305
+hopcount_med: 4
+buffertime_avg: 1221.2229
+buffertime_med: 914.6000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4545.044263094257
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 336498.0000
+created: 9755
+started: 200099
+relayed: 162473
+aborted: 37624
+dropped: 169742
+removed: 0
+delivered: 1881
+delivery_prob: 0.1928
+response_prob: 0.0000
+overhead_ratio: 85.3759
+latency_avg: 4547.4353
+latency_med: 3316.0000
+hopcount_avg: 4.8283
+hopcount_med: 4
+buffertime_avg: 1221.3533
+buffertime_med: 915.4000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4547.43525055897
+----------------------------------
+Message stats for scenario EpidemicRouter
+sim_time: 337418.1000
+created: 9781
+started: 200517
+relayed: 162792
+aborted: 37724
+dropped: 170094
+removed: 0
+delivered: 1888
+delivery_prob: 0.1930
+response_prob: 0.0000
+overhead_ratio: 85.2246
+latency_avg: 4551.4168
+latency_med: 3321.0000
+hopcount_avg: 4.8374
+hopcount_med: 4
+buffertime_avg: 1221.6024
+buffertime_med: 915.8000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4551.416846533287
+----------------------------------

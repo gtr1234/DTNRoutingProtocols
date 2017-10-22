@@ -1,0 +1,2068 @@
+Message stats for scenario MyRouter
+sim_time: 3616.0000
+created: 105
+started: 632
+relayed: 542
+aborted: 89
+dropped: 27
+removed: 0
+delivered: 15
+delivery_prob: 0.1429
+response_prob: 0.0000
+overhead_ratio: 35.1333
+latency_avg: 1421.3000
+latency_med: 1111.1000
+hopcount_avg: 1.6667
+hopcount_med: 2
+buffertime_avg: 917.0815
+buffertime_med: 825.9000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 1421.2999999988008
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 7230.0000
+created: 210
+started: 2049
+relayed: 1706
+aborted: 343
+dropped: 860
+removed: 0
+delivered: 47
+delivery_prob: 0.2238
+response_prob: 0.0000
+overhead_ratio: 35.2979
+latency_avg: 2622.2872
+latency_med: 2633.0000
+hopcount_avg: 2.2340
+hopcount_med: 2
+buffertime_avg: 2077.3149
+buffertime_med: 1943.0000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 2622.2872340436115
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 10835.0000
+created: 315
+started: 4335
+relayed: 3560
+aborted: 771
+dropped: 2663
+removed: 0
+delivered: 78
+delivery_prob: 0.2476
+response_prob: 0.0000
+overhead_ratio: 44.6410
+latency_avg: 3147.4538
+latency_med: 3077.3000
+hopcount_avg: 2.2179
+hopcount_med: 2
+buffertime_avg: 1950.3588
+buffertime_med: 1666.0000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3147.453846159919
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 14442.0000
+created: 419
+started: 6637
+relayed: 5409
+aborted: 1227
+dropped: 4540
+removed: 0
+delivered: 112
+delivery_prob: 0.2673
+response_prob: 0.0000
+overhead_ratio: 47.2946
+latency_avg: 3786.5652
+latency_med: 3395.3000
+hopcount_avg: 2.3036
+hopcount_med: 2
+buffertime_avg: 2014.4900
+buffertime_med: 1617.1000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3786.56517858456
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 18058.0000
+created: 523
+started: 9034
+relayed: 7342
+aborted: 1691
+dropped: 6527
+removed: 0
+delivered: 143
+delivery_prob: 0.2734
+response_prob: 0.0000
+overhead_ratio: 50.3427
+latency_avg: 3907.0294
+latency_med: 3402.7000
+hopcount_avg: 2.3217
+hopcount_med: 2
+buffertime_avg: 2043.0967
+buffertime_med: 1573.7000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3907.0293706471975
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 21673.0000
+created: 627
+started: 10953
+relayed: 8880
+aborted: 2070
+dropped: 8185
+removed: 0
+delivered: 166
+delivery_prob: 0.2648
+response_prob: 0.0000
+overhead_ratio: 52.4940
+latency_avg: 4118.7277
+latency_med: 3443.4000
+hopcount_avg: 2.2590
+hopcount_med: 2
+buffertime_avg: 2108.5432
+buffertime_med: 1611.7000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4118.727710858173
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 25301.0000
+created: 732
+started: 13139
+relayed: 10639
+aborted: 2499
+dropped: 10096
+removed: 0
+delivered: 182
+delivery_prob: 0.2486
+response_prob: 0.0000
+overhead_ratio: 57.4560
+latency_avg: 4260.9302
+latency_med: 3613.4000
+hopcount_avg: 2.2308
+hopcount_med: 2
+buffertime_avg: 2132.5082
+buffertime_med: 1588.9000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4260.930219788616
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 28913.0000
+created: 837
+started: 15509
+relayed: 12515
+aborted: 2993
+dropped: 12083
+removed: 0
+delivered: 214
+delivery_prob: 0.2557
+response_prob: 0.0000
+overhead_ratio: 57.4813
+latency_avg: 4437.2528
+latency_med: 3841.0000
+hopcount_avg: 2.1776
+hopcount_med: 2
+buffertime_avg: 2116.4717
+buffertime_med: 1525.6000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4437.252803728832
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 32521.0000
+created: 943
+started: 17344
+relayed: 14020
+aborted: 3322
+dropped: 13721
+removed: 0
+delivered: 242
+delivery_prob: 0.2566
+response_prob: 0.0000
+overhead_ratio: 56.9339
+latency_avg: 4476.2426
+latency_med: 3817.8000
+hopcount_avg: 2.1116
+hopcount_med: 2
+buffertime_avg: 2143.8507
+buffertime_med: 1527.8000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4476.2425619557025
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 36137.0000
+created: 1046
+started: 19296
+relayed: 15593
+aborted: 3700
+dropped: 15317
+removed: 0
+delivered: 272
+delivery_prob: 0.2600
+response_prob: 0.0000
+overhead_ratio: 56.3272
+latency_avg: 4575.8801
+latency_med: 3869.1000
+hopcount_avg: 2.1250
+hopcount_med: 2
+buffertime_avg: 2148.9215
+buffertime_med: 1527.8000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4575.880147009886
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 39755.0000
+created: 1151
+started: 21023
+relayed: 16983
+aborted: 4038
+dropped: 16793
+removed: 0
+delivered: 308
+delivery_prob: 0.2676
+response_prob: 0.0000
+overhead_ratio: 54.1396
+latency_avg: 4642.6140
+latency_med: 3988.0000
+hopcount_avg: 2.0942
+hopcount_med: 2
+buffertime_avg: 2183.5587
+buffertime_med: 1550.4000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4642.613960964125
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 43367.0000
+created: 1256
+started: 23058
+relayed: 18603
+aborted: 4452
+dropped: 18476
+removed: 0
+delivered: 338
+delivery_prob: 0.2691
+response_prob: 0.0000
+overhead_ratio: 54.0385
+latency_avg: 4832.1201
+latency_med: 4077.9000
+hopcount_avg: 2.0917
+hopcount_med: 2
+buffertime_avg: 2190.8466
+buffertime_med: 1548.5000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4832.12011824614
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 46990.0000
+created: 1359
+started: 24870
+relayed: 20015
+aborted: 4853
+dropped: 19931
+removed: 0
+delivered: 371
+delivery_prob: 0.2730
+response_prob: 0.0000
+overhead_ratio: 52.9488
+latency_avg: 4899.1391
+latency_med: 4240.6000
+hopcount_avg: 2.0997
+hopcount_med: 2
+buffertime_avg: 2204.9481
+buffertime_med: 1558.3000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4899.13908343609
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 50599.0000
+created: 1464
+started: 27058
+relayed: 21784
+aborted: 5271
+dropped: 21721
+removed: 0
+delivered: 404
+delivery_prob: 0.2760
+response_prob: 0.0000
+overhead_ratio: 52.9208
+latency_avg: 4841.7879
+latency_med: 4105.5000
+hopcount_avg: 2.0891
+hopcount_med: 2
+buffertime_avg: 2208.1109
+buffertime_med: 1548.5000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4841.78787113997
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 54212.0000
+created: 1569
+started: 29108
+relayed: 23397
+aborted: 5710
+dropped: 23463
+removed: 0
+delivered: 435
+delivery_prob: 0.2772
+response_prob: 0.0000
+overhead_ratio: 52.7862
+latency_avg: 4851.1221
+latency_med: 4105.5000
+hopcount_avg: 2.0598
+hopcount_med: 2
+buffertime_avg: 2220.3239
+buffertime_med: 1548.2000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4851.122068794237
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 57826.0000
+created: 1673
+started: 30952
+relayed: 24864
+aborted: 6087
+dropped: 24981
+removed: 0
+delivered: 464
+delivery_prob: 0.2773
+response_prob: 0.0000
+overhead_ratio: 52.5862
+latency_avg: 4874.7584
+latency_med: 4077.9000
+hopcount_avg: 2.0474
+hopcount_med: 2
+buffertime_avg: 2233.5964
+buffertime_med: 1565.1000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4874.758404978427
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 61447.0000
+created: 1776
+started: 32941
+relayed: 26465
+aborted: 6473
+dropped: 26631
+removed: 0
+delivered: 489
+delivery_prob: 0.2753
+response_prob: 0.0000
+overhead_ratio: 53.1207
+latency_avg: 4845.2540
+latency_med: 4029.3000
+hopcount_avg: 2.0450
+hopcount_med: 2
+buffertime_avg: 2237.6849
+buffertime_med: 1567.8000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4845.253987515996
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 65060.0000
+created: 1881
+started: 34836
+relayed: 27978
+aborted: 6857
+dropped: 28306
+removed: 0
+delivered: 521
+delivery_prob: 0.2770
+response_prob: 0.0000
+overhead_ratio: 52.7006
+latency_avg: 4889.1593
+latency_med: 4035.2000
+hopcount_avg: 2.0537
+hopcount_med: 2
+buffertime_avg: 2254.0292
+buffertime_med: 1571.4000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4889.159308780522
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 68688.0000
+created: 1986
+started: 36819
+relayed: 29573
+aborted: 7244
+dropped: 29883
+removed: 0
+delivered: 556
+delivery_prob: 0.2800
+response_prob: 0.0000
+overhead_ratio: 52.1888
+latency_avg: 4924.0892
+latency_med: 4042.1000
+hopcount_avg: 2.0576
+hopcount_med: 2
+buffertime_avg: 2265.0693
+buffertime_med: 1582.5000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4924.08920836994
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 72316.0000
+created: 2091
+started: 38797
+relayed: 31157
+aborted: 7640
+dropped: 31584
+removed: 0
+delivered: 587
+delivery_prob: 0.2807
+response_prob: 0.0000
+overhead_ratio: 52.0784
+latency_avg: 4942.3228
+latency_med: 4035.2000
+hopcount_avg: 2.0545
+hopcount_med: 2
+buffertime_avg: 2266.8942
+buffertime_med: 1579.2000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4942.322827669099
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 75940.0000
+created: 2196
+started: 40539
+relayed: 32535
+aborted: 8001
+dropped: 33030
+removed: 0
+delivered: 618
+delivery_prob: 0.2814
+response_prob: 0.0000
+overhead_ratio: 51.6456
+latency_avg: 5020.2676
+latency_med: 4163.5000
+hopcount_avg: 2.0469
+hopcount_med: 2
+buffertime_avg: 2284.9303
+buffertime_med: 1586.9000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 5020.267637275107
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 79561.0000
+created: 2300
+started: 42615
+relayed: 34229
+aborted: 8385
+dropped: 34748
+removed: 0
+delivered: 652
+delivery_prob: 0.2835
+response_prob: 0.0000
+overhead_ratio: 51.4985
+latency_avg: 5017.3166
+latency_med: 4105.5000
+hopcount_avg: 2.0383
+hopcount_med: 2
+buffertime_avg: 2283.7086
+buffertime_med: 1585.6000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 5017.316564166975
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 83177.0000
+created: 2405
+started: 44475
+relayed: 35743
+aborted: 8732
+dropped: 36415
+removed: 0
+delivered: 678
+delivery_prob: 0.2819
+response_prob: 0.0000
+overhead_ratio: 51.7183
+latency_avg: 5017.6190
+latency_med: 4105.5000
+hopcount_avg: 2.0310
+hopcount_med: 2
+buffertime_avg: 2289.6644
+buffertime_med: 1582.8000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 5017.619026317303
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 86812.0000
+created: 2512
+started: 46156
+relayed: 37084
+aborted: 9069
+dropped: 37820
+removed: 0
+delivered: 707
+delivery_prob: 0.2814
+response_prob: 0.0000
+overhead_ratio: 51.4526
+latency_avg: 5026.6337
+latency_med: 4138.4000
+hopcount_avg: 2.0198
+hopcount_med: 2
+buffertime_avg: 2307.0541
+buffertime_med: 1594.3000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 5026.63366316228
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 90442.0000
+created: 2618
+started: 47749
+relayed: 38353
+aborted: 9392
+dropped: 39135
+removed: 0
+delivered: 741
+delivery_prob: 0.2830
+response_prob: 0.0000
+overhead_ratio: 50.7584
+latency_avg: 5031.6509
+latency_med: 4199.7000
+hopcount_avg: 2.0108
+hopcount_med: 2
+buffertime_avg: 2318.1523
+buffertime_med: 1606.8000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 5031.65087702855
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 94058.0000
+created: 2723
+started: 49437
+relayed: 39708
+aborted: 9728
+dropped: 40624
+removed: 0
+delivered: 774
+delivery_prob: 0.2842
+response_prob: 0.0000
+overhead_ratio: 50.3023
+latency_avg: 5043.4921
+latency_med: 4199.7000
+hopcount_avg: 1.9987
+hopcount_med: 2
+buffertime_avg: 2343.4359
+buffertime_med: 1619.6000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 5043.492118742623
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 97695.0000
+created: 2828
+started: 50895
+relayed: 40873
+aborted: 10022
+dropped: 41837
+removed: 0
+delivered: 813
+delivery_prob: 0.2875
+response_prob: 0.0000
+overhead_ratio: 49.2743
+latency_avg: 5125.7811
+latency_med: 4240.6000
+hopcount_avg: 1.9975
+hopcount_med: 2
+buffertime_avg: 2357.6822
+buffertime_med: 1635.8000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 5125.781057747281
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 101314.0000
+created: 2933
+started: 52347
+relayed: 42039
+aborted: 10307
+dropped: 43074
+removed: 0
+delivered: 839
+delivery_prob: 0.2861
+response_prob: 0.0000
+overhead_ratio: 49.1061
+latency_avg: 5131.4305
+latency_med: 4199.7000
+hopcount_avg: 1.9881
+hopcount_med: 2
+buffertime_avg: 2377.0034
+buffertime_med: 1651.8000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 5131.430512492459
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 104944.0000
+created: 3038
+started: 53794
+relayed: 43206
+aborted: 10587
+dropped: 44387
+removed: 0
+delivered: 864
+delivery_prob: 0.2844
+response_prob: 0.0000
+overhead_ratio: 49.0069
+latency_avg: 5137.9764
+latency_med: 4209.4000
+hopcount_avg: 1.9815
+hopcount_med: 2
+buffertime_avg: 2393.7948
+buffertime_med: 1660.1000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 5137.9763889084725
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 108549.0000
+created: 3144
+started: 55238
+relayed: 44386
+aborted: 10850
+dropped: 45605
+removed: 0
+delivered: 907
+delivery_prob: 0.2885
+response_prob: 0.0000
+overhead_ratio: 47.9372
+latency_avg: 5161.8265
+latency_med: 4212.9000
+hopcount_avg: 1.9713
+hopcount_med: 2
+buffertime_avg: 2412.7153
+buffertime_med: 1670.7000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 5161.8264609604485
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 112159.0000
+created: 3248
+started: 56299
+relayed: 45236
+aborted: 11062
+dropped: 46529
+removed: 0
+delivered: 931
+delivery_prob: 0.2866
+response_prob: 0.0000
+overhead_ratio: 47.5886
+latency_avg: 5177.7338
+latency_med: 4264.0000
+hopcount_avg: 1.9689
+hopcount_med: 2
+buffertime_avg: 2439.8718
+buffertime_med: 1688.8000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 5177.733834733793
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 115785.0000
+created: 3353
+started: 57504
+relayed: 46204
+aborted: 11300
+dropped: 47512
+removed: 0
+delivered: 970
+delivery_prob: 0.2893
+response_prob: 0.0000
+overhead_ratio: 46.6330
+latency_avg: 5193.8333
+latency_med: 4284.2000
+hopcount_avg: 1.9557
+hopcount_med: 2
+buffertime_avg: 2460.3927
+buffertime_med: 1707.7000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 5193.8332991960615
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 119387.0000
+created: 3458
+started: 58697
+relayed: 47163
+aborted: 11532
+dropped: 48659
+removed: 0
+delivered: 999
+delivery_prob: 0.2889
+response_prob: 0.0000
+overhead_ratio: 46.2102
+latency_avg: 5181.3532
+latency_med: 4264.7000
+hopcount_avg: 1.9520
+hopcount_med: 2
+buffertime_avg: 2483.2780
+buffertime_med: 1719.7000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 5181.353153442316
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 123017.0000
+created: 3563
+started: 59675
+relayed: 47950
+aborted: 11724
+dropped: 49487
+removed: 0
+delivered: 1034
+delivery_prob: 0.2902
+response_prob: 0.0000
+overhead_ratio: 45.3733
+latency_avg: 5187.4927
+latency_med: 4284.2000
+hopcount_avg: 1.9420
+hopcount_med: 2
+buffertime_avg: 2506.6432
+buffertime_med: 1736.0000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 5187.492746981015
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 126625.0000
+created: 3667
+started: 60502
+relayed: 48626
+aborted: 11875
+dropped: 50217
+removed: 0
+delivered: 1063
+delivery_prob: 0.2899
+response_prob: 0.0000
+overhead_ratio: 44.7441
+latency_avg: 5231.6929
+latency_med: 4319.2000
+hopcount_avg: 1.9360
+hopcount_med: 2
+buffertime_avg: 2534.5588
+buffertime_med: 1750.2000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 5231.692850852561
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 130250.0000
+created: 3771
+started: 61517
+relayed: 49451
+aborted: 12064
+dropped: 51096
+removed: 0
+delivered: 1096
+delivery_prob: 0.2906
+response_prob: 0.0000
+overhead_ratio: 44.1195
+latency_avg: 5253.7122
+latency_med: 4385.3000
+hopcount_avg: 1.9270
+hopcount_med: 2
+buffertime_avg: 2571.6676
+buffertime_med: 1769.9000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 5253.712226778539
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 133864.0000
+created: 3876
+started: 62612
+relayed: 50309
+aborted: 12302
+dropped: 52069
+removed: 0
+delivered: 1134
+delivery_prob: 0.2926
+response_prob: 0.0000
+overhead_ratio: 43.3642
+latency_avg: 5245.1425
+latency_med: 4365.2000
+hopcount_avg: 1.9109
+hopcount_med: 2
+buffertime_avg: 2596.9550
+buffertime_med: 1785.1000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 5245.1425049917025
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 137496.0000
+created: 3982
+started: 63633
+relayed: 51106
+aborted: 12526
+dropped: 52942
+removed: 0
+delivered: 1173
+delivery_prob: 0.2946
+response_prob: 0.0000
+overhead_ratio: 42.5686
+latency_avg: 5286.6736
+latency_med: 4377.1000
+hopcount_avg: 1.9088
+hopcount_med: 2
+buffertime_avg: 2622.9701
+buffertime_med: 1805.7000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 5286.67357271373
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 141133.0000
+created: 4088
+started: 64318
+relayed: 51646
+aborted: 12671
+dropped: 53492
+removed: 0
+delivered: 1211
+delivery_prob: 0.2962
+response_prob: 0.0000
+overhead_ratio: 41.6474
+latency_avg: 5284.2273
+latency_med: 4373.1000
+hopcount_avg: 1.8918
+hopcount_med: 2
+buffertime_avg: 2646.6127
+buffertime_med: 1819.5000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 5284.227250972463
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 144744.0000
+created: 4193
+started: 65061
+relayed: 52243
+aborted: 12817
+dropped: 54211
+removed: 0
+delivered: 1239
+delivery_prob: 0.2955
+response_prob: 0.0000
+overhead_ratio: 41.1655
+latency_avg: 5304.4483
+latency_med: 4389.5000
+hopcount_avg: 1.8822
+hopcount_med: 2
+buffertime_avg: 2684.4802
+buffertime_med: 1841.1000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 5304.448265565294
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 148358.0000
+created: 4298
+started: 65695
+relayed: 52751
+aborted: 12944
+dropped: 54804
+removed: 0
+delivered: 1281
+delivery_prob: 0.2980
+response_prob: 0.0000
+overhead_ratio: 40.1795
+latency_avg: 5325.1099
+latency_med: 4411.5000
+hopcount_avg: 1.8618
+hopcount_med: 2
+buffertime_avg: 2712.4713
+buffertime_med: 1855.9000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 5325.109915067276
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 151978.0000
+created: 4402
+started: 66273
+relayed: 53227
+aborted: 13046
+dropped: 55395
+removed: 0
+delivered: 1312
+delivery_prob: 0.2980
+response_prob: 0.0000
+overhead_ratio: 39.5694
+latency_avg: 5321.9292
+latency_med: 4389.5000
+hopcount_avg: 1.8483
+hopcount_med: 2
+buffertime_avg: 2748.8398
+buffertime_med: 1873.3000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 5321.929193082116
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 155604.0000
+created: 4508
+started: 66665
+relayed: 53543
+aborted: 13121
+dropped: 55762
+removed: 0
+delivered: 1349
+delivery_prob: 0.2992
+response_prob: 0.0000
+overhead_ratio: 38.6909
+latency_avg: 5347.4251
+latency_med: 4422.8000
+hopcount_avg: 1.8354
+hopcount_med: 2
+buffertime_avg: 2777.7697
+buffertime_med: 1887.4000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 5347.425056697314
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 159228.0000
+created: 4614
+started: 67068
+relayed: 53882
+aborted: 13186
+dropped: 56113
+removed: 0
+delivered: 1387
+delivery_prob: 0.3006
+response_prob: 0.0000
+overhead_ratio: 37.8479
+latency_avg: 5372.2921
+latency_med: 4435.3000
+hopcount_avg: 1.8219
+hopcount_med: 2
+buffertime_avg: 2813.0632
+buffertime_med: 1898.3000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 5372.292070409355
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 162852.0000
+created: 4720
+started: 67519
+relayed: 54258
+aborted: 13261
+dropped: 56521
+removed: 0
+delivered: 1425
+delivery_prob: 0.3019
+response_prob: 0.0000
+overhead_ratio: 37.0758
+latency_avg: 5418.5441
+latency_med: 4474.5000
+hopcount_avg: 1.8091
+hopcount_med: 2
+buffertime_avg: 2855.2818
+buffertime_med: 1912.6000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 5418.54407146254
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 166470.0000
+created: 4824
+started: 67746
+relayed: 54444
+aborted: 13302
+dropped: 56867
+removed: 0
+delivered: 1467
+delivery_prob: 0.3041
+response_prob: 0.0000
+overhead_ratio: 36.1125
+latency_avg: 5471.4928
+latency_med: 4510.3000
+hopcount_avg: 1.7900
+hopcount_med: 2
+buffertime_avg: 2888.0524
+buffertime_med: 1926.4000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 5471.492843924873
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 170089.0000
+created: 4930
+started: 68068
+relayed: 54718
+aborted: 13349
+dropped: 57267
+removed: 0
+delivered: 1511
+delivery_prob: 0.3065
+response_prob: 0.0000
+overhead_ratio: 35.2131
+latency_avg: 5507.8637
+latency_med: 4512.8000
+hopcount_avg: 1.7730
+hopcount_med: 2
+buffertime_avg: 2933.8886
+buffertime_med: 1941.9000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 5507.863667938968
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 173712.0000
+created: 5037
+started: 68307
+relayed: 54919
+aborted: 13388
+dropped: 57512
+removed: 0
+delivered: 1550
+delivery_prob: 0.3077
+response_prob: 0.0000
+overhead_ratio: 34.4316
+latency_avg: 5550.6720
+latency_med: 4564.3000
+hopcount_avg: 1.7587
+hopcount_med: 2
+buffertime_avg: 2966.0770
+buffertime_med: 1948.6000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 5550.672001594056
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 177319.0000
+created: 5141
+started: 68530
+relayed: 55113
+aborted: 13417
+dropped: 57844
+removed: 0
+delivered: 1593
+delivery_prob: 0.3099
+response_prob: 0.0000
+overhead_ratio: 33.5970
+latency_avg: 5616.8242
+latency_med: 4591.8000
+hopcount_avg: 1.7420
+hopcount_med: 2
+buffertime_avg: 3009.4608
+buffertime_med: 1960.7000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 5616.824169927206
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 180932.0000
+created: 5245
+started: 68730
+relayed: 55278
+aborted: 13451
+dropped: 58024
+removed: 0
+delivered: 1638
+delivery_prob: 0.3123
+response_prob: 0.0000
+overhead_ratio: 32.7473
+latency_avg: 5655.9305
+latency_med: 4603.0000
+hopcount_avg: 1.7234
+hopcount_med: 2
+buffertime_avg: 3039.6885
+buffertime_med: 1969.8000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 5655.93052683854
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 184552.0000
+created: 5349
+started: 68880
+relayed: 55411
+aborted: 13469
+dropped: 58278
+removed: 0
+delivered: 1681
+delivery_prob: 0.3143
+response_prob: 0.0000
+overhead_ratio: 31.9631
+latency_avg: 5674.9540
+latency_med: 4624.2000
+hopcount_avg: 1.7073
+hopcount_med: 2
+buffertime_avg: 3079.2309
+buffertime_med: 1978.8000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 5674.954017382763
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 188170.0000
+created: 5453
+started: 69045
+relayed: 55554
+aborted: 13491
+dropped: 58526
+removed: 0
+delivered: 1720
+delivery_prob: 0.3154
+response_prob: 0.0000
+overhead_ratio: 31.2988
+latency_avg: 5757.3842
+latency_med: 4674.8000
+hopcount_avg: 1.6919
+hopcount_med: 1
+buffertime_avg: 3122.7179
+buffertime_med: 1990.4000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 5757.384188059054
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 191773.0000
+created: 5557
+started: 69169
+relayed: 55667
+aborted: 13501
+dropped: 58716
+removed: 0
+delivered: 1754
+delivery_prob: 0.3156
+response_prob: 0.0000
+overhead_ratio: 30.7372
+latency_avg: 5824.1146
+latency_med: 4735.0000
+hopcount_avg: 1.6802
+hopcount_med: 1
+buffertime_avg: 3155.9939
+buffertime_med: 1997.7000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 5824.114597312422
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 195401.0000
+created: 5663
+started: 69297
+relayed: 55786
+aborted: 13511
+dropped: 58947
+removed: 0
+delivered: 1794
+delivery_prob: 0.3168
+response_prob: 0.0000
+overhead_ratio: 30.0959
+latency_avg: 5851.2756
+latency_med: 4767.5000
+hopcount_avg: 1.6661
+hopcount_med: 1
+buffertime_avg: 3191.5685
+buffertime_med: 2005.5000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 5851.275643231228
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 199038.0000
+created: 5768
+started: 69412
+relayed: 55884
+aborted: 13527
+dropped: 59152
+removed: 0
+delivered: 1849
+delivery_prob: 0.3206
+response_prob: 0.0000
+overhead_ratio: 29.2239
+latency_avg: 5926.2299
+latency_med: 4922.5000
+hopcount_avg: 1.6501
+hopcount_med: 1
+buffertime_avg: 3229.0259
+buffertime_med: 2014.5000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 5926.22991040615
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 202642.0000
+created: 5873
+started: 69459
+relayed: 55932
+aborted: 13527
+dropped: 59265
+removed: 0
+delivered: 1897
+delivery_prob: 0.3230
+response_prob: 0.0000
+overhead_ratio: 28.4844
+latency_avg: 6014.6581
+latency_med: 5012.7000
+hopcount_avg: 1.6342
+hopcount_med: 1
+buffertime_avg: 3255.3060
+buffertime_med: 2018.6000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 6014.658146908905
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 206245.0000
+created: 5976
+started: 69503
+relayed: 55975
+aborted: 13528
+dropped: 59422
+removed: 0
+delivered: 1940
+delivery_prob: 0.3246
+response_prob: 0.0000
+overhead_ratio: 27.8531
+latency_avg: 6085.9008
+latency_med: 5063.6000
+hopcount_avg: 1.6201
+hopcount_med: 1
+buffertime_avg: 3290.0195
+buffertime_med: 2026.8000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 6085.90082731457
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 209861.0000
+created: 6080
+started: 69544
+relayed: 56015
+aborted: 13529
+dropped: 59556
+removed: 0
+delivered: 1980
+delivery_prob: 0.3257
+response_prob: 0.0000
+overhead_ratio: 27.2904
+latency_avg: 6105.6194
+latency_med: 5118.8000
+hopcount_avg: 1.6081
+hopcount_med: 1
+buffertime_avg: 3321.1373
+buffertime_med: 2035.3000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 6105.61939660965
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 213476.0000
+created: 6185
+started: 69580
+relayed: 56051
+aborted: 13529
+dropped: 59700
+removed: 0
+delivered: 2016
+delivery_prob: 0.3259
+response_prob: 0.0000
+overhead_ratio: 26.8031
+latency_avg: 6157.3420
+latency_med: 5148.5000
+hopcount_avg: 1.5972
+hopcount_med: 1
+buffertime_avg: 3355.0402
+buffertime_med: 2043.0000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 6157.342016651466
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 217093.0000
+created: 6289
+started: 69631
+relayed: 56102
+aborted: 13529
+dropped: 59806
+removed: 0
+delivered: 2067
+delivery_prob: 0.3287
+response_prob: 0.0000
+overhead_ratio: 26.1418
+latency_avg: 6212.2037
+latency_med: 5183.7000
+hopcount_avg: 1.5825
+hopcount_med: 1
+buffertime_avg: 3380.9031
+buffertime_med: 2048.0000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 6212.203728098461
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 220705.0000
+created: 6394
+started: 69677
+relayed: 56148
+aborted: 13529
+dropped: 59911
+removed: 0
+delivered: 2113
+delivery_prob: 0.3305
+response_prob: 0.0000
+overhead_ratio: 25.5726
+latency_avg: 6222.9018
+latency_med: 5195.7000
+hopcount_avg: 1.5698
+hopcount_med: 1
+buffertime_avg: 3406.4498
+buffertime_med: 2052.4000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 6222.90175407459
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 224327.0000
+created: 6500
+started: 69727
+relayed: 56198
+aborted: 13529
+dropped: 60015
+removed: 0
+delivered: 2163
+delivery_prob: 0.3328
+response_prob: 0.0000
+overhead_ratio: 24.9815
+latency_avg: 6261.1321
+latency_med: 5246.1000
+hopcount_avg: 1.5566
+hopcount_med: 1
+buffertime_avg: 3431.6325
+buffertime_med: 2057.6000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 6261.132088194688
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 227941.0000
+created: 6605
+started: 69749
+relayed: 56220
+aborted: 13529
+dropped: 60119
+removed: 0
+delivered: 2185
+delivery_prob: 0.3308
+response_prob: 0.0000
+overhead_ratio: 24.7300
+latency_avg: 6270.2837
+latency_med: 5253.0000
+hopcount_avg: 1.5510
+hopcount_med: 1
+buffertime_avg: 3456.7860
+buffertime_med: 2062.9000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 6270.283664506699
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 231554.0000
+created: 6710
+started: 69788
+relayed: 56259
+aborted: 13529
+dropped: 60223
+removed: 0
+delivered: 2224
+delivery_prob: 0.3314
+response_prob: 0.0000
+overhead_ratio: 24.2963
+latency_avg: 6308.8652
+latency_med: 5337.2000
+hopcount_avg: 1.5414
+hopcount_med: 1
+buffertime_avg: 3481.8454
+buffertime_med: 2067.9000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 6308.865156153031
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 235179.0000
+created: 6814
+started: 69826
+relayed: 56296
+aborted: 13530
+dropped: 60328
+removed: 0
+delivered: 2261
+delivery_prob: 0.3318
+response_prob: 0.0000
+overhead_ratio: 23.8987
+latency_avg: 6341.6332
+latency_med: 5403.1000
+hopcount_avg: 1.5325
+hopcount_med: 1
+buffertime_avg: 3507.0399
+buffertime_med: 2073.8000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 6341.633174533602
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 238792.0000
+created: 6919
+started: 69864
+relayed: 56334
+aborted: 13530
+dropped: 60433
+removed: 0
+delivered: 2299
+delivery_prob: 0.3323
+response_prob: 0.0000
+overhead_ratio: 23.5037
+latency_avg: 6361.9708
+latency_med: 5415.8000
+hopcount_avg: 1.5237
+hopcount_med: 1
+buffertime_avg: 3532.1613
+buffertime_med: 2079.1000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 6361.970816857279
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 242397.0000
+created: 7023
+started: 69916
+relayed: 56386
+aborted: 13530
+dropped: 60538
+removed: 0
+delivered: 2351
+delivery_prob: 0.3348
+response_prob: 0.0000
+overhead_ratio: 22.9838
+latency_avg: 6403.8277
+latency_med: 5437.9000
+hopcount_avg: 1.5121
+hopcount_med: 1
+buffertime_avg: 3557.2053
+buffertime_med: 2084.0000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 6403.827736457324
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 246013.0000
+created: 7128
+started: 69964
+relayed: 56431
+aborted: 13532
+dropped: 60644
+removed: 0
+delivered: 2396
+delivery_prob: 0.3361
+response_prob: 0.0000
+overhead_ratio: 22.5522
+latency_avg: 6458.7031
+latency_med: 5488.4000
+hopcount_avg: 1.5025
+hopcount_med: 1
+buffertime_avg: 3582.3943
+buffertime_med: 2090.7000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 6458.70313389801
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 249630.0000
+created: 7233
+started: 70022
+relayed: 56489
+aborted: 13533
+dropped: 60748
+removed: 0
+delivered: 2454
+delivery_prob: 0.3393
+response_prob: 0.0000
+overhead_ratio: 22.0192
+latency_avg: 6496.0062
+latency_med: 5539.3000
+hopcount_avg: 1.4906
+hopcount_med: 1
+buffertime_avg: 3607.0229
+buffertime_med: 2097.4000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 6496.006238547567
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 253259.0000
+created: 7339
+started: 70069
+relayed: 56536
+aborted: 13533
+dropped: 60853
+removed: 0
+delivered: 2501
+delivery_prob: 0.3408
+response_prob: 0.0000
+overhead_ratio: 21.6054
+latency_avg: 6542.5018
+latency_med: 5548.5000
+hopcount_avg: 1.4814
+hopcount_med: 1
+buffertime_avg: 3631.8077
+buffertime_med: 2101.8000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 6542.501763235769
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 256887.0000
+created: 7445
+started: 70109
+relayed: 56576
+aborted: 13533
+dropped: 60958
+removed: 0
+delivered: 2541
+delivery_prob: 0.3413
+response_prob: 0.0000
+overhead_ratio: 21.2652
+latency_avg: 6560.1167
+latency_med: 5557.5000
+hopcount_avg: 1.4738
+hopcount_med: 1
+buffertime_avg: 3656.5000
+buffertime_med: 2109.2000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 6560.116690384246
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 260494.0000
+created: 7551
+started: 70149
+relayed: 56616
+aborted: 13533
+dropped: 61062
+removed: 0
+delivered: 2581
+delivery_prob: 0.3418
+response_prob: 0.0000
+overhead_ratio: 20.9357
+latency_avg: 6588.6006
+latency_med: 5588.7000
+hopcount_avg: 1.4665
+hopcount_med: 1
+buffertime_avg: 3680.8790
+buffertime_med: 2113.6000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 6588.600624056219
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 264129.0000
+created: 7657
+started: 70197
+relayed: 56664
+aborted: 13533
+dropped: 61168
+removed: 0
+delivered: 2629
+delivery_prob: 0.3433
+response_prob: 0.0000
+overhead_ratio: 20.5534
+latency_avg: 6641.3954
+latency_med: 5629.8000
+hopcount_avg: 1.4580
+hopcount_med: 1
+buffertime_avg: 3705.6392
+buffertime_med: 2118.9000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 6641.395363712124
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 267752.0000
+created: 7762
+started: 70242
+relayed: 56709
+aborted: 13533
+dropped: 61273
+removed: 0
+delivered: 2674
+delivery_prob: 0.3445
+response_prob: 0.0000
+overhead_ratio: 20.2076
+latency_avg: 6670.9629
+latency_med: 5659.9000
+hopcount_avg: 1.4503
+hopcount_med: 1
+buffertime_avg: 3730.0828
+buffertime_med: 2123.6000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 6670.962943770582
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 271378.0000
+created: 7867
+started: 70281
+relayed: 56748
+aborted: 13533
+dropped: 61379
+removed: 0
+delivered: 2713
+delivery_prob: 0.3449
+response_prob: 0.0000
+overhead_ratio: 19.9171
+latency_avg: 6662.4659
+latency_med: 5659.9000
+hopcount_avg: 1.4438
+hopcount_med: 1
+buffertime_avg: 3754.6795
+buffertime_med: 2128.3000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 6662.465909319161
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 274985.0000
+created: 7971
+started: 70329
+relayed: 56795
+aborted: 13533
+dropped: 61484
+removed: 0
+delivered: 2760
+delivery_prob: 0.3463
+response_prob: 0.0000
+overhead_ratio: 19.5779
+latency_avg: 6692.3423
+latency_med: 5670.4000
+hopcount_avg: 1.4362
+hopcount_med: 1
+buffertime_avg: 3778.9579
+buffertime_med: 2133.8000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 6692.3422508575995
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 278609.0000
+created: 8076
+started: 70381
+relayed: 56848
+aborted: 13533
+dropped: 61590
+removed: 0
+delivered: 2813
+delivery_prob: 0.3483
+response_prob: 0.0000
+overhead_ratio: 19.2090
+latency_avg: 6723.0014
+latency_med: 5722.5000
+hopcount_avg: 1.4280
+hopcount_med: 1
+buffertime_avg: 3803.3807
+buffertime_med: 2138.7000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 6723.00135540324
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 282239.0000
+created: 8181
+started: 70433
+relayed: 56900
+aborted: 13533
+dropped: 61697
+removed: 0
+delivered: 2865
+delivery_prob: 0.3502
+response_prob: 0.0000
+overhead_ratio: 18.8604
+latency_avg: 6726.5147
+latency_med: 5722.5000
+hopcount_avg: 1.4202
+hopcount_med: 1
+buffertime_avg: 3827.9534
+buffertime_med: 2142.0000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 6726.514699159088
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 285848.0000
+created: 8285
+started: 70479
+relayed: 56946
+aborted: 13533
+dropped: 61801
+removed: 0
+delivered: 2911
+delivery_prob: 0.3514
+response_prob: 0.0000
+overhead_ratio: 18.5623
+latency_avg: 6765.3005
+latency_med: 5768.6000
+hopcount_avg: 1.4136
+hopcount_med: 1
+buffertime_avg: 3851.7491
+buffertime_med: 2147.3000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 6765.3004511694835
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 289468.0000
+created: 8390
+started: 70516
+relayed: 56980
+aborted: 13536
+dropped: 61905
+removed: 0
+delivered: 2945
+delivery_prob: 0.3510
+response_prob: 0.0000
+overhead_ratio: 18.3480
+latency_avg: 6776.5503
+latency_med: 5781.4000
+hopcount_avg: 1.4088
+hopcount_med: 1
+buffertime_avg: 3875.4683
+buffertime_med: 2150.9000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 6776.550327169614
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 293071.0000
+created: 8494
+started: 70554
+relayed: 57018
+aborted: 13536
+dropped: 62010
+removed: 0
+delivered: 2983
+delivery_prob: 0.3512
+response_prob: 0.0000
+overhead_ratio: 18.1143
+latency_avg: 6780.0144
+latency_med: 5802.0000
+hopcount_avg: 1.4036
+hopcount_med: 1
+buffertime_avg: 3899.3347
+buffertime_med: 2157.0000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 6780.0144195996145
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 296685.0000
+created: 8599
+started: 70589
+relayed: 57053
+aborted: 13536
+dropped: 62115
+removed: 0
+delivered: 3018
+delivery_prob: 0.3510
+response_prob: 0.0000
+overhead_ratio: 17.9042
+latency_avg: 6801.0797
+latency_med: 5810.7000
+hopcount_avg: 1.3989
+hopcount_med: 1
+buffertime_avg: 3923.1167
+buffertime_med: 2161.6000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 6801.079659964868
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 300295.0000
+created: 8703
+started: 70631
+relayed: 57095
+aborted: 13536
+dropped: 62219
+removed: 0
+delivered: 3060
+delivery_prob: 0.3516
+response_prob: 0.0000
+overhead_ratio: 17.6585
+latency_avg: 6809.5616
+latency_med: 5810.7000
+hopcount_avg: 1.3935
+hopcount_med: 1
+buffertime_avg: 3946.5968
+buffertime_med: 2166.3000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 6809.561605840252
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 303920.0000
+created: 8809
+started: 70677
+relayed: 57141
+aborted: 13536
+dropped: 62323
+removed: 0
+delivered: 3106
+delivery_prob: 0.3526
+response_prob: 0.0000
+overhead_ratio: 17.3970
+latency_avg: 6812.3185
+latency_med: 5807.4000
+hopcount_avg: 1.3876
+hopcount_med: 1
+buffertime_avg: 3969.9954
+buffertime_med: 2171.9000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 6812.318549239431
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 307538.0000
+created: 8915
+started: 70713
+relayed: 57177
+aborted: 13536
+dropped: 62429
+removed: 0
+delivered: 3142
+delivery_prob: 0.3524
+response_prob: 0.0000
+overhead_ratio: 17.1976
+latency_avg: 6823.3227
+latency_med: 5819.8000
+hopcount_avg: 1.3832
+hopcount_med: 1
+buffertime_avg: 3993.7628
+buffertime_med: 2175.9000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 6823.322696995228
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 311177.0000
+created: 9020
+started: 70762
+relayed: 57226
+aborted: 13536
+dropped: 62533
+removed: 0
+delivered: 3191
+delivery_prob: 0.3538
+response_prob: 0.0000
+overhead_ratio: 16.9336
+latency_avg: 6848.8412
+latency_med: 5847.7000
+hopcount_avg: 1.3773
+hopcount_med: 1
+buffertime_avg: 4017.0061
+buffertime_med: 2180.5000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 6848.841151346161
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 314787.0000
+created: 9126
+started: 70808
+relayed: 57272
+aborted: 13536
+dropped: 62638
+removed: 0
+delivered: 3237
+delivery_prob: 0.3547
+response_prob: 0.0000
+overhead_ratio: 16.6929
+latency_avg: 6871.8725
+latency_med: 5853.9000
+hopcount_avg: 1.3719
+hopcount_med: 1
+buffertime_avg: 4040.3958
+buffertime_med: 2185.7000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 6871.872509699871
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 318392.0000
+created: 9231
+started: 70843
+relayed: 57307
+aborted: 13536
+dropped: 62742
+removed: 0
+delivered: 3272
+delivery_prob: 0.3545
+response_prob: 0.0000
+overhead_ratio: 16.5144
+latency_avg: 6889.4933
+latency_med: 5863.3000
+hopcount_avg: 1.3680
+hopcount_med: 1
+buffertime_avg: 4063.4830
+buffertime_med: 2191.1000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 6889.493311073996
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 322013.0000
+created: 9335
+started: 70893
+relayed: 57356
+aborted: 13537
+dropped: 62848
+removed: 0
+delivered: 3321
+delivery_prob: 0.3558
+response_prob: 0.0000
+overhead_ratio: 16.2707
+latency_avg: 6902.3131
+latency_med: 5876.9000
+hopcount_avg: 1.3625
+hopcount_med: 1
+buffertime_avg: 4086.9410
+buffertime_med: 2196.8000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 6902.313102589054
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 325641.0000
+created: 9441
+started: 70936
+relayed: 57398
+aborted: 13538
+dropped: 62955
+removed: 0
+delivered: 3363
+delivery_prob: 0.3562
+response_prob: 0.0000
+overhead_ratio: 16.0675
+latency_avg: 6912.0845
+latency_med: 5887.3000
+hopcount_avg: 1.3580
+hopcount_med: 1
+buffertime_avg: 4110.5393
+buffertime_med: 2202.5000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 6912.084452436544
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 329264.0000
+created: 9545
+started: 70989
+relayed: 57451
+aborted: 13538
+dropped: 63058
+removed: 0
+delivered: 3416
+delivery_prob: 0.3579
+response_prob: 0.0000
+overhead_ratio: 15.8182
+latency_avg: 6939.7756
+latency_med: 5939.5000
+hopcount_avg: 1.3525
+hopcount_med: 1
+buffertime_avg: 4133.1788
+buffertime_med: 2206.4000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 6939.775618650919
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 332878.0000
+created: 9649
+started: 71033
+relayed: 57495
+aborted: 13538
+dropped: 63165
+removed: 0
+delivered: 3460
+delivery_prob: 0.3586
+response_prob: 0.0000
+overhead_ratio: 15.6171
+latency_avg: 6947.0755
+latency_med: 5939.5000
+hopcount_avg: 1.3480
+hopcount_med: 1
+buffertime_avg: 4156.6218
+buffertime_med: 2212.6000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 6947.075524012183
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 336498.0000
+created: 9755
+started: 71089
+relayed: 57551
+aborted: 13538
+dropped: 63270
+removed: 0
+delivered: 3516
+delivery_prob: 0.3604
+response_prob: 0.0000
+overhead_ratio: 15.3683
+latency_avg: 6968.1884
+latency_med: 5945.3000
+hopcount_avg: 1.3424
+hopcount_med: 1
+buffertime_avg: 4179.5448
+buffertime_med: 2220.3000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 6968.188427967736
+----------------------------------
+Message stats for scenario MyRouter
+sim_time: 337418.1000
+created: 9781
+started: 71096
+relayed: 57558
+aborted: 13538
+dropped: 63296
+removed: 0
+delivered: 3523
+delivery_prob: 0.3602
+response_prob: 0.0000
+overhead_ratio: 15.3378
+latency_avg: 6969.7016
+latency_med: 5945.3000
+hopcount_avg: 1.3418
+hopcount_med: 1
+buffertime_avg: 4185.2091
+buffertime_med: 2222.2000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 6969.701649925619
+----------------------------------

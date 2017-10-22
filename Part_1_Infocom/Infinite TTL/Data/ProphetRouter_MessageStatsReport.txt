@@ -1,0 +1,2068 @@
+Message stats for scenario ProphetRouter
+sim_time: 3616.0000
+created: 105
+started: 545
+relayed: 471
+aborted: 73
+dropped: 155
+removed: 0
+delivered: 14
+delivery_prob: 0.1333
+response_prob: 0.0000
+overhead_ratio: 32.6429
+latency_avg: 1353.8357
+latency_med: 1173.3000
+hopcount_avg: 2.0000
+hopcount_med: 2
+buffertime_avg: 881.5419
+buffertime_med: 675.2000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 1353.83571428442
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 7230.0000
+created: 210
+started: 2007
+relayed: 1670
+aborted: 337
+dropped: 1291
+removed: 0
+delivered: 31
+delivery_prob: 0.1476
+response_prob: 0.0000
+overhead_ratio: 52.8710
+latency_avg: 2307.2452
+latency_med: 2466.3000
+hopcount_avg: 2.2258
+hopcount_med: 2
+buffertime_avg: 1163.0191
+buffertime_med: 880.7000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 2307.2451612909163
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 10835.0000
+created: 315
+started: 4102
+relayed: 3351
+aborted: 748
+dropped: 3037
+removed: 0
+delivered: 55
+delivery_prob: 0.1746
+response_prob: 0.0000
+overhead_ratio: 59.9273
+latency_avg: 3064.4909
+latency_med: 3093.8000
+hopcount_avg: 2.4182
+hopcount_med: 2
+buffertime_avg: 1145.3992
+buffertime_med: 781.2000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3064.4909090976203
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 14442.0000
+created: 419
+started: 6170
+relayed: 5002
+aborted: 1168
+dropped: 4767
+removed: 0
+delivered: 79
+delivery_prob: 0.1885
+response_prob: 0.0000
+overhead_ratio: 62.3165
+latency_avg: 3886.4468
+latency_med: 3300.6000
+hopcount_avg: 2.6456
+hopcount_med: 2
+buffertime_avg: 1184.7149
+buffertime_med: 762.4000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3886.4468354560504
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 18058.0000
+created: 523
+started: 8191
+relayed: 6635
+aborted: 1555
+dropped: 6485
+removed: 0
+delivered: 99
+delivery_prob: 0.1893
+response_prob: 0.0000
+overhead_ratio: 66.0202
+latency_avg: 3910.7333
+latency_med: 3356.1000
+hopcount_avg: 2.5758
+hopcount_med: 2
+buffertime_avg: 1189.7333
+buffertime_med: 744.3000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3910.7333333506035
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 21673.0000
+created: 627
+started: 9924
+relayed: 8024
+aborted: 1897
+dropped: 7956
+removed: 0
+delivered: 115
+delivery_prob: 0.1834
+response_prob: 0.0000
+overhead_ratio: 68.7739
+latency_avg: 3862.8191
+latency_med: 3356.1000
+hopcount_avg: 2.5043
+hopcount_med: 2
+buffertime_avg: 1210.5974
+buffertime_med: 765.1000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 3862.8191304486113
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 25301.0000
+created: 732
+started: 11854
+relayed: 9596
+aborted: 2257
+dropped: 9600
+removed: 0
+delivered: 133
+delivery_prob: 0.1817
+response_prob: 0.0000
+overhead_ratio: 71.1504
+latency_avg: 4192.9451
+latency_med: 3470.4000
+hopcount_avg: 2.5789
+hopcount_med: 2
+buffertime_avg: 1234.7511
+buffertime_med: 755.3000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4192.945112784952
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 28913.0000
+created: 837
+started: 14037
+relayed: 11331
+aborted: 2705
+dropped: 11420
+removed: 0
+delivered: 162
+delivery_prob: 0.1935
+response_prob: 0.0000
+overhead_ratio: 68.9444
+latency_avg: 4235.6451
+latency_med: 3395.3000
+hopcount_avg: 2.5741
+hopcount_med: 2
+buffertime_avg: 1228.0731
+buffertime_med: 743.5000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4235.645061710872
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 32521.0000
+created: 943
+started: 15768
+relayed: 12768
+aborted: 2997
+dropped: 12946
+removed: 0
+delivered: 182
+delivery_prob: 0.1930
+response_prob: 0.0000
+overhead_ratio: 69.1538
+latency_avg: 4220.3830
+latency_med: 3390.1000
+hopcount_avg: 2.5330
+hopcount_med: 2
+buffertime_avg: 1240.1139
+buffertime_med: 753.1000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4220.382966999436
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 36137.0000
+created: 1046
+started: 17687
+relayed: 14326
+aborted: 3358
+dropped: 14584
+removed: 0
+delivered: 204
+delivery_prob: 0.1950
+response_prob: 0.0000
+overhead_ratio: 69.2255
+latency_avg: 4251.1029
+latency_med: 3390.1000
+hopcount_avg: 2.6029
+hopcount_med: 2
+buffertime_avg: 1246.6043
+buffertime_med: 751.0000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4251.102941122787
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 39755.0000
+created: 1151
+started: 19376
+relayed: 15709
+aborted: 3666
+dropped: 16063
+removed: 0
+delivered: 230
+delivery_prob: 0.1998
+response_prob: 0.0000
+overhead_ratio: 67.3000
+latency_avg: 4409.9939
+latency_med: 3356.1000
+hopcount_avg: 2.6348
+hopcount_med: 2
+buffertime_avg: 1263.3878
+buffertime_med: 759.7000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4409.993912964928
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 43367.0000
+created: 1256
+started: 21278
+relayed: 17263
+aborted: 4013
+dropped: 17682
+removed: 0
+delivered: 260
+delivery_prob: 0.2070
+response_prob: 0.0000
+overhead_ratio: 65.3962
+latency_avg: 4517.9765
+latency_med: 3395.3000
+hopcount_avg: 2.6885
+hopcount_med: 2
+buffertime_avg: 1277.0888
+buffertime_med: 763.1000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4517.976538354365
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 46990.0000
+created: 1359
+started: 22981
+relayed: 18606
+aborted: 4373
+dropped: 19115
+removed: 0
+delivered: 276
+delivery_prob: 0.2031
+response_prob: 0.0000
+overhead_ratio: 66.4130
+latency_avg: 4699.3652
+latency_med: 3510.0000
+hopcount_avg: 2.7645
+hopcount_med: 2
+buffertime_avg: 1284.5551
+buffertime_med: 775.8000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4699.365217268731
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 50599.0000
+created: 1464
+started: 25043
+relayed: 20285
+aborted: 4755
+dropped: 20870
+removed: 0
+delivered: 294
+delivery_prob: 0.2008
+response_prob: 0.0000
+overhead_ratio: 67.9966
+latency_avg: 4651.8514
+latency_med: 3510.0000
+hopcount_avg: 2.7721
+hopcount_med: 2
+buffertime_avg: 1274.1392
+buffertime_med: 768.9000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4651.85136040263
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 54212.0000
+created: 1569
+started: 27122
+relayed: 21939
+aborted: 5182
+dropped: 22605
+removed: 0
+delivered: 315
+delivery_prob: 0.2008
+response_prob: 0.0000
+overhead_ratio: 68.6476
+latency_avg: 4701.1114
+latency_med: 3510.0000
+hopcount_avg: 2.7651
+hopcount_med: 2
+buffertime_avg: 1273.2366
+buffertime_med: 763.8000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4701.111428406957
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 57826.0000
+created: 1673
+started: 29030
+relayed: 23469
+aborted: 5560
+dropped: 24230
+removed: 0
+delivered: 324
+delivery_prob: 0.1937
+response_prob: 0.0000
+overhead_ratio: 71.4352
+latency_avg: 4658.6210
+latency_med: 3485.0000
+hopcount_avg: 2.7377
+hopcount_med: 2
+buffertime_avg: 1267.6399
+buffertime_med: 765.6000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4658.620987479731
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 61447.0000
+created: 1776
+started: 30986
+relayed: 25056
+aborted: 5927
+dropped: 25902
+removed: 0
+delivered: 346
+delivery_prob: 0.1948
+response_prob: 0.0000
+overhead_ratio: 71.4162
+latency_avg: 4617.6697
+latency_med: 3470.4000
+hopcount_avg: 2.6879
+hopcount_med: 2
+buffertime_avg: 1270.8214
+buffertime_med: 765.1000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4617.669652978692
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 65060.0000
+created: 1881
+started: 32967
+relayed: 26650
+aborted: 6315
+dropped: 27580
+removed: 0
+delivered: 365
+delivery_prob: 0.1940
+response_prob: 0.0000
+overhead_ratio: 72.0137
+latency_avg: 4701.5907
+latency_med: 3485.0000
+hopcount_avg: 2.6932
+hopcount_med: 2
+buffertime_avg: 1270.0767
+buffertime_med: 757.3000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4701.590684707877
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 68688.0000
+created: 1986
+started: 35048
+relayed: 28344
+aborted: 6702
+dropped: 29348
+removed: 0
+delivered: 386
+delivery_prob: 0.1944
+response_prob: 0.0000
+overhead_ratio: 72.4301
+latency_avg: 4710.6070
+latency_med: 3552.4000
+hopcount_avg: 2.6891
+hopcount_med: 2
+buffertime_avg: 1272.6112
+buffertime_med: 760.8000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4710.606994575248
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 72316.0000
+created: 2091
+started: 37022
+relayed: 29921
+aborted: 7100
+dropped: 31025
+removed: 0
+delivered: 405
+delivery_prob: 0.1937
+response_prob: 0.0000
+overhead_ratio: 72.8790
+latency_avg: 4686.2351
+latency_med: 3510.0000
+hopcount_avg: 2.6815
+hopcount_med: 2
+buffertime_avg: 1268.7569
+buffertime_med: 759.0000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4686.235061478303
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 75940.0000
+created: 2196
+started: 38977
+relayed: 31492
+aborted: 7482
+dropped: 32655
+removed: 0
+delivered: 426
+delivery_prob: 0.1940
+response_prob: 0.0000
+overhead_ratio: 72.9249
+latency_avg: 4717.1991
+latency_med: 3552.4000
+hopcount_avg: 2.6714
+hopcount_med: 2
+buffertime_avg: 1272.0003
+buffertime_med: 760.7000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4717.199060787172
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 79561.0000
+created: 2300
+started: 41100
+relayed: 33231
+aborted: 7868
+dropped: 34476
+removed: 0
+delivered: 445
+delivery_prob: 0.1935
+response_prob: 0.0000
+overhead_ratio: 73.6764
+latency_avg: 4743.8566
+latency_med: 3554.8000
+hopcount_avg: 2.6719
+hopcount_med: 2
+buffertime_avg: 1267.9677
+buffertime_med: 758.0000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4743.856628979941
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 83177.0000
+created: 2405
+started: 43240
+relayed: 34989
+aborted: 8251
+dropped: 36320
+removed: 0
+delivered: 459
+delivery_prob: 0.1909
+response_prob: 0.0000
+overhead_ratio: 75.2288
+latency_avg: 4686.5654
+latency_med: 3510.0000
+hopcount_avg: 2.6514
+hopcount_med: 2
+buffertime_avg: 1263.9848
+buffertime_med: 755.4000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4686.565359258116
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 86812.0000
+created: 2512
+started: 45253
+relayed: 36615
+aborted: 8634
+dropped: 38067
+removed: 0
+delivered: 479
+delivery_prob: 0.1907
+response_prob: 0.0000
+overhead_ratio: 75.4405
+latency_avg: 4666.2668
+latency_med: 3510.0000
+hopcount_avg: 2.6472
+hopcount_med: 2
+buffertime_avg: 1263.3876
+buffertime_med: 756.1000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4666.266805651009
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 90442.0000
+created: 2618
+started: 47051
+relayed: 38052
+aborted: 8996
+dropped: 39596
+removed: 0
+delivered: 500
+delivery_prob: 0.1910
+response_prob: 0.0000
+overhead_ratio: 75.1040
+latency_avg: 4644.9664
+latency_med: 3485.0000
+hopcount_avg: 2.6640
+hopcount_med: 2
+buffertime_avg: 1269.2166
+buffertime_med: 759.6000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4644.966399840192
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 94058.0000
+created: 2723
+started: 49088
+relayed: 39699
+aborted: 9388
+dropped: 41314
+removed: 0
+delivered: 515
+delivery_prob: 0.1891
+response_prob: 0.0000
+overhead_ratio: 76.0854
+latency_avg: 4642.6936
+latency_med: 3470.5000
+hopcount_avg: 2.6641
+hopcount_med: 2
+buffertime_avg: 1266.4948
+buffertime_med: 761.2000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4642.693592103481
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 97695.0000
+created: 2828
+started: 51076
+relayed: 41299
+aborted: 9775
+dropped: 43013
+removed: 0
+delivered: 529
+delivery_prob: 0.1871
+response_prob: 0.0000
+overhead_ratio: 77.0699
+latency_avg: 4650.6410
+latency_med: 3470.5000
+hopcount_avg: 2.6711
+hopcount_med: 2
+buffertime_avg: 1265.3665
+buffertime_med: 763.5000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4650.641020696551
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 101314.0000
+created: 2933
+started: 53030
+relayed: 42880
+aborted: 10149
+dropped: 44708
+removed: 0
+delivered: 547
+delivery_prob: 0.1865
+response_prob: 0.0000
+overhead_ratio: 77.3912
+latency_avg: 4693.6594
+latency_med: 3510.0000
+hopcount_avg: 2.6764
+hopcount_med: 2
+buffertime_avg: 1266.3283
+buffertime_med: 764.3000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4693.659414939552
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 104944.0000
+created: 3038
+started: 54999
+relayed: 44476
+aborted: 10522
+dropped: 46351
+removed: 0
+delivered: 573
+delivery_prob: 0.1886
+response_prob: 0.0000
+overhead_ratio: 76.6195
+latency_avg: 4767.3714
+latency_med: 3588.1000
+hopcount_avg: 2.7033
+hopcount_med: 2
+buffertime_avg: 1262.9961
+buffertime_med: 759.7000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4767.371378727742
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 108549.0000
+created: 3144
+started: 57026
+relayed: 46125
+aborted: 10899
+dropped: 48091
+removed: 0
+delivered: 592
+delivery_prob: 0.1883
+response_prob: 0.0000
+overhead_ratio: 76.9139
+latency_avg: 4722.0105
+latency_med: 3554.8000
+hopcount_avg: 2.6875
+hopcount_med: 2
+buffertime_avg: 1262.1499
+buffertime_med: 757.2000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4722.010473046123
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 112159.0000
+created: 3248
+started: 58751
+relayed: 47508
+aborted: 11243
+dropped: 49566
+removed: 0
+delivered: 607
+delivery_prob: 0.1869
+response_prob: 0.0000
+overhead_ratio: 77.2669
+latency_avg: 4717.5369
+latency_med: 3551.2000
+hopcount_avg: 2.7018
+hopcount_med: 2
+buffertime_avg: 1268.2179
+buffertime_med: 762.4000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4717.536902919549
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 115785.0000
+created: 3353
+started: 60694
+relayed: 49073
+aborted: 11621
+dropped: 51214
+removed: 0
+delivered: 628
+delivery_prob: 0.1873
+response_prob: 0.0000
+overhead_ratio: 77.1417
+latency_avg: 4695.3396
+latency_med: 3552.4000
+hopcount_avg: 2.6959
+hopcount_med: 2
+buffertime_avg: 1268.3046
+buffertime_med: 763.7000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4695.339649868075
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 119387.0000
+created: 3458
+started: 62654
+relayed: 50658
+aborted: 11995
+dropped: 52874
+removed: 0
+delivered: 651
+delivery_prob: 0.1883
+response_prob: 0.0000
+overhead_ratio: 76.8157
+latency_avg: 4697.2733
+latency_med: 3552.4000
+hopcount_avg: 2.7174
+hopcount_med: 2
+buffertime_avg: 1267.0619
+buffertime_med: 764.4000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4697.273272151765
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 123017.0000
+created: 3563
+started: 64487
+relayed: 52127
+aborted: 12359
+dropped: 54434
+removed: 0
+delivered: 672
+delivery_prob: 0.1886
+response_prob: 0.0000
+overhead_ratio: 76.5699
+latency_avg: 4716.7021
+latency_med: 3613.4000
+hopcount_avg: 2.7292
+hopcount_med: 2
+buffertime_avg: 1269.5320
+buffertime_med: 766.1000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4716.702083664576
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 126625.0000
+created: 3667
+started: 66244
+relayed: 53526
+aborted: 12717
+dropped: 55916
+removed: 0
+delivered: 689
+delivery_prob: 0.1879
+response_prob: 0.0000
+overhead_ratio: 76.6865
+latency_avg: 4750.2563
+latency_med: 3619.3000
+hopcount_avg: 2.7358
+hopcount_med: 2
+buffertime_avg: 1272.9794
+buffertime_med: 767.9000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4750.256313890331
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 130250.0000
+created: 3771
+started: 68039
+relayed: 54978
+aborted: 13059
+dropped: 57455
+removed: 0
+delivered: 709
+delivery_prob: 0.1880
+response_prob: 0.0000
+overhead_ratio: 76.5430
+latency_avg: 4754.5646
+latency_med: 3619.3000
+hopcount_avg: 2.7461
+hopcount_med: 2
+buffertime_avg: 1277.8029
+buffertime_med: 771.7000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4754.5645984915645
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 133864.0000
+created: 3876
+started: 69958
+relayed: 56504
+aborted: 13452
+dropped: 59089
+removed: 0
+delivered: 732
+delivery_prob: 0.1889
+response_prob: 0.0000
+overhead_ratio: 76.1913
+latency_avg: 4779.6113
+latency_med: 3625.3000
+hopcount_avg: 2.7500
+hopcount_med: 2
+buffertime_avg: 1275.8269
+buffertime_med: 770.6000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4779.611339349147
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 137496.0000
+created: 3982
+started: 72024
+relayed: 58123
+aborted: 13898
+dropped: 60813
+removed: 0
+delivered: 744
+delivery_prob: 0.1868
+response_prob: 0.0000
+overhead_ratio: 77.1223
+latency_avg: 4757.5251
+latency_med: 3614.6000
+hopcount_avg: 2.7540
+hopcount_med: 2
+buffertime_avg: 1276.3215
+buffertime_med: 771.3000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4757.525135006104
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 141133.0000
+created: 4088
+started: 73838
+relayed: 59550
+aborted: 14286
+dropped: 62303
+removed: 0
+delivered: 772
+delivery_prob: 0.1888
+response_prob: 0.0000
+overhead_ratio: 76.1373
+latency_avg: 4749.3680
+latency_med: 3601.5000
+hopcount_avg: 2.7526
+hopcount_med: 2
+buffertime_avg: 1274.9217
+buffertime_med: 773.2000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4749.36800587963
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 144744.0000
+created: 4193
+started: 75844
+relayed: 61154
+aborted: 14689
+dropped: 63994
+removed: 0
+delivered: 790
+delivery_prob: 0.1884
+response_prob: 0.0000
+overhead_ratio: 76.4101
+latency_avg: 4771.2092
+latency_med: 3601.5000
+hopcount_avg: 2.7570
+hopcount_med: 2
+buffertime_avg: 1273.2156
+buffertime_med: 770.7000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4771.209241276144
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 148358.0000
+created: 4298
+started: 77908
+relayed: 62776
+aborted: 15131
+dropped: 65702
+removed: 0
+delivered: 813
+delivery_prob: 0.1892
+response_prob: 0.0000
+overhead_ratio: 76.2153
+latency_avg: 4730.0895
+latency_med: 3551.2000
+hopcount_avg: 2.7466
+hopcount_med: 2
+buffertime_avg: 1271.6854
+buffertime_med: 769.8000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4730.089545747632
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 151978.0000
+created: 4402
+started: 80044
+relayed: 64472
+aborted: 15572
+dropped: 67485
+removed: 0
+delivered: 832
+delivery_prob: 0.1890
+response_prob: 0.0000
+overhead_ratio: 76.4904
+latency_avg: 4720.5371
+latency_med: 3538.2000
+hopcount_avg: 2.7440
+hopcount_med: 2
+buffertime_avg: 1266.4166
+buffertime_med: 766.7000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4720.537140352536
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 155604.0000
+created: 4508
+started: 82037
+relayed: 66060
+aborted: 15975
+dropped: 69154
+removed: 0
+delivered: 855
+delivery_prob: 0.1897
+response_prob: 0.0000
+overhead_ratio: 76.2632
+latency_avg: 4771.7330
+latency_med: 3551.2000
+hopcount_avg: 2.7333
+hopcount_med: 2
+buffertime_avg: 1267.3288
+buffertime_med: 766.6000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4771.732983475173
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 159228.0000
+created: 4614
+started: 83838
+relayed: 67528
+aborted: 16309
+dropped: 70680
+removed: 0
+delivered: 879
+delivery_prob: 0.1905
+response_prob: 0.0000
+overhead_ratio: 75.8237
+latency_avg: 4792.2953
+latency_med: 3554.8000
+hopcount_avg: 2.7383
+hopcount_med: 2
+buffertime_avg: 1268.1135
+buffertime_med: 768.4000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4792.295336722288
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 162852.0000
+created: 4720
+started: 85969
+relayed: 69264
+aborted: 16703
+dropped: 72513
+removed: 0
+delivered: 899
+delivery_prob: 0.1905
+response_prob: 0.0000
+overhead_ratio: 76.0456
+latency_avg: 4781.4165
+latency_med: 3554.8000
+hopcount_avg: 2.7297
+hopcount_med: 2
+buffertime_avg: 1266.6783
+buffertime_med: 766.2000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4781.416463928479
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 166470.0000
+created: 4824
+started: 87778
+relayed: 70730
+aborted: 17047
+dropped: 74083
+removed: 0
+delivered: 911
+delivery_prob: 0.1888
+response_prob: 0.0000
+overhead_ratio: 76.6400
+latency_avg: 4774.9379
+latency_med: 3552.4000
+hopcount_avg: 2.7212
+hopcount_med: 2
+buffertime_avg: 1267.2061
+buffertime_med: 767.2000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4774.93787171517
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 170089.0000
+created: 4930
+started: 89681
+relayed: 72268
+aborted: 17410
+dropped: 75735
+removed: 0
+delivered: 929
+delivery_prob: 0.1884
+response_prob: 0.0000
+overhead_ratio: 76.7912
+latency_avg: 4794.3223
+latency_med: 3552.4000
+hopcount_avg: 2.7244
+hopcount_med: 2
+buffertime_avg: 1266.7024
+buffertime_med: 767.0000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4794.322283345155
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 173712.0000
+created: 5037
+started: 91587
+relayed: 73779
+aborted: 17807
+dropped: 77321
+removed: 0
+delivered: 942
+delivery_prob: 0.1870
+response_prob: 0.0000
+overhead_ratio: 77.3217
+latency_avg: 4783.0347
+latency_med: 3574.7000
+hopcount_avg: 2.7261
+hopcount_med: 2
+buffertime_avg: 1267.4335
+buffertime_med: 767.8000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4783.034714755399
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 177319.0000
+created: 5141
+started: 93393
+relayed: 75230
+aborted: 18163
+dropped: 78854
+removed: 0
+delivered: 960
+delivery_prob: 0.1867
+response_prob: 0.0000
+overhead_ratio: 77.3646
+latency_avg: 4773.9036
+latency_med: 3588.1000
+hopcount_avg: 2.7292
+hopcount_med: 2
+buffertime_avg: 1266.3154
+buffertime_med: 769.3000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4773.903647288797
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 180932.0000
+created: 5245
+started: 95391
+relayed: 76790
+aborted: 18598
+dropped: 80523
+removed: 0
+delivered: 984
+delivery_prob: 0.1876
+response_prob: 0.0000
+overhead_ratio: 77.0386
+latency_avg: 4803.7565
+latency_med: 3614.6000
+hopcount_avg: 2.7378
+hopcount_med: 2
+buffertime_avg: 1264.2051
+buffertime_med: 768.1000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4803.756505629496
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 184552.0000
+created: 5349
+started: 97167
+relayed: 78201
+aborted: 18963
+dropped: 82007
+removed: 0
+delivered: 1002
+delivery_prob: 0.1873
+response_prob: 0.0000
+overhead_ratio: 77.0449
+latency_avg: 4780.7175
+latency_med: 3614.4000
+hopcount_avg: 2.7236
+hopcount_med: 2
+buffertime_avg: 1265.6642
+buffertime_med: 769.0000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4780.717466716748
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 188170.0000
+created: 5453
+started: 98913
+relayed: 79610
+aborted: 19301
+dropped: 83504
+removed: 0
+delivered: 1017
+delivery_prob: 0.1865
+response_prob: 0.0000
+overhead_ratio: 77.2793
+latency_avg: 4809.2432
+latency_med: 3614.6000
+hopcount_avg: 2.7276
+hopcount_med: 2
+buffertime_avg: 1267.0002
+buffertime_med: 770.3000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4809.243167891226
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 191773.0000
+created: 5557
+started: 100954
+relayed: 81224
+aborted: 19728
+dropped: 85186
+removed: 0
+delivered: 1031
+delivery_prob: 0.1855
+response_prob: 0.0000
+overhead_ratio: 77.7818
+latency_avg: 4790.1214
+latency_med: 3614.4000
+hopcount_avg: 2.7294
+hopcount_med: 2
+buffertime_avg: 1266.8356
+buffertime_med: 769.4000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4790.121437281599
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 195401.0000
+created: 5663
+started: 102732
+relayed: 82655
+aborted: 20075
+dropped: 86701
+removed: 0
+delivered: 1051
+delivery_prob: 0.1856
+response_prob: 0.0000
+overhead_ratio: 77.6441
+latency_avg: 4810.9370
+latency_med: 3614.6000
+hopcount_avg: 2.7374
+hopcount_med: 2
+buffertime_avg: 1265.4563
+buffertime_med: 770.7000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4810.937014245929
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 199038.0000
+created: 5768
+started: 104621
+relayed: 84159
+aborted: 20459
+dropped: 88299
+removed: 0
+delivered: 1071
+delivery_prob: 0.1857
+response_prob: 0.0000
+overhead_ratio: 77.5798
+latency_avg: 4839.8615
+latency_med: 3625.3000
+hopcount_avg: 2.7479
+hopcount_med: 2
+buffertime_avg: 1266.3152
+buffertime_med: 769.7000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4839.86153325172
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 202642.0000
+created: 5873
+started: 106435
+relayed: 85619
+aborted: 20814
+dropped: 89838
+removed: 0
+delivered: 1093
+delivery_prob: 0.1861
+response_prob: 0.0000
+overhead_ratio: 77.3339
+latency_avg: 4851.5543
+latency_med: 3632.8000
+hopcount_avg: 2.7649
+hopcount_med: 2
+buffertime_avg: 1266.4628
+buffertime_med: 769.8000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4851.554347914729
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 206245.0000
+created: 5976
+started: 108474
+relayed: 87255
+aborted: 21218
+dropped: 91551
+removed: 0
+delivered: 1126
+delivery_prob: 0.1884
+response_prob: 0.0000
+overhead_ratio: 76.4911
+latency_avg: 4886.2707
+latency_med: 3649.6000
+hopcount_avg: 2.7824
+hopcount_med: 2
+buffertime_avg: 1266.1648
+buffertime_med: 767.9000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4886.270694945362
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 209861.0000
+created: 6080
+started: 110101
+relayed: 88533
+aborted: 21567
+dropped: 92897
+removed: 0
+delivered: 1153
+delivery_prob: 0.1896
+response_prob: 0.0000
+overhead_ratio: 75.7849
+latency_avg: 4906.4503
+latency_med: 3675.3000
+hopcount_avg: 2.7962
+hopcount_med: 2
+buffertime_avg: 1268.5700
+buffertime_med: 769.7000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4906.450305909722
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 213476.0000
+created: 6185
+started: 111859
+relayed: 89929
+aborted: 21929
+dropped: 94400
+removed: 0
+delivered: 1167
+delivery_prob: 0.1887
+response_prob: 0.0000
+overhead_ratio: 76.0600
+latency_avg: 4902.4430
+latency_med: 3658.0000
+hopcount_avg: 2.7935
+hopcount_med: 2
+buffertime_avg: 1270.2817
+buffertime_med: 770.9000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4902.443018700675
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 217093.0000
+created: 6289
+started: 113450
+relayed: 91178
+aborted: 22271
+dropped: 95722
+removed: 0
+delivered: 1194
+delivery_prob: 0.1899
+response_prob: 0.0000
+overhead_ratio: 75.3635
+latency_avg: 4899.0881
+latency_med: 3691.4000
+hopcount_avg: 2.7831
+hopcount_med: 2
+buffertime_avg: 1272.2825
+buffertime_med: 773.2000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4899.088109749489
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 220705.0000
+created: 6394
+started: 115241
+relayed: 92619
+aborted: 22619
+dropped: 97223
+removed: 0
+delivered: 1222
+delivery_prob: 0.1911
+response_prob: 0.0000
+overhead_ratio: 74.7930
+latency_avg: 4869.9647
+latency_med: 3675.3000
+hopcount_avg: 2.7692
+hopcount_med: 2
+buffertime_avg: 1274.5892
+buffertime_med: 773.2000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4869.964650795717
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 224327.0000
+created: 6500
+started: 117047
+relayed: 94056
+aborted: 22991
+dropped: 98745
+removed: 0
+delivered: 1243
+delivery_prob: 0.1912
+response_prob: 0.0000
+overhead_ratio: 74.6685
+latency_avg: 4862.5925
+latency_med: 3678.0000
+hopcount_avg: 2.7619
+hopcount_med: 2
+buffertime_avg: 1274.9970
+buffertime_med: 773.3000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4862.592520876564
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 227941.0000
+created: 6605
+started: 118654
+relayed: 95346
+aborted: 23305
+dropped: 100138
+removed: 0
+delivered: 1258
+delivery_prob: 0.1905
+response_prob: 0.0000
+overhead_ratio: 74.7917
+latency_avg: 4854.0503
+latency_med: 3675.3000
+hopcount_avg: 2.7552
+hopcount_med: 2
+buffertime_avg: 1276.4502
+buffertime_med: 775.8000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4854.05032081047
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 231554.0000
+created: 6710
+started: 120345
+relayed: 96707
+aborted: 23634
+dropped: 101580
+removed: 0
+delivered: 1271
+delivery_prob: 0.1894
+response_prob: 0.0000
+overhead_ratio: 75.0873
+latency_avg: 4844.6364
+latency_med: 3655.1000
+hopcount_avg: 2.7553
+hopcount_med: 2
+buffertime_avg: 1277.6651
+buffertime_med: 776.3000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4844.636430916451
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 235179.0000
+created: 6814
+started: 122052
+relayed: 98039
+aborted: 24012
+dropped: 102996
+removed: 0
+delivered: 1287
+delivery_prob: 0.1889
+response_prob: 0.0000
+overhead_ratio: 75.1764
+latency_avg: 4837.7385
+latency_med: 3658.0000
+hopcount_avg: 2.7490
+hopcount_med: 2
+buffertime_avg: 1279.8754
+buffertime_med: 778.2000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4837.738542222526
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 238792.0000
+created: 6919
+started: 124091
+relayed: 99683
+aborted: 24407
+dropped: 104732
+removed: 0
+delivered: 1308
+delivery_prob: 0.1890
+response_prob: 0.0000
+overhead_ratio: 75.2102
+latency_avg: 4836.3297
+latency_med: 3675.3000
+hopcount_avg: 2.7492
+hopcount_med: 2
+buffertime_avg: 1279.6323
+buffertime_med: 777.7000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4836.329743139044
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 242397.0000
+created: 7023
+started: 126015
+relayed: 101225
+aborted: 24788
+dropped: 106376
+removed: 0
+delivered: 1321
+delivery_prob: 0.1881
+response_prob: 0.0000
+overhead_ratio: 75.6276
+latency_avg: 4821.5577
+latency_med: 3655.1000
+hopcount_avg: 2.7434
+hopcount_med: 2
+buffertime_avg: 1279.6663
+buffertime_med: 776.9000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4821.557686706853
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 246013.0000
+created: 7128
+started: 127865
+relayed: 102707
+aborted: 25155
+dropped: 107974
+removed: 0
+delivered: 1333
+delivery_prob: 0.1870
+response_prob: 0.0000
+overhead_ratio: 76.0495
+latency_avg: 4844.9596
+latency_med: 3658.0000
+hopcount_avg: 2.7494
+hopcount_med: 2
+buffertime_avg: 1279.1753
+buffertime_med: 777.4000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4844.959568077297
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 249630.0000
+created: 7233
+started: 129889
+relayed: 104352
+aborted: 25536
+dropped: 109687
+removed: 0
+delivered: 1346
+delivery_prob: 0.1861
+response_prob: 0.0000
+overhead_ratio: 76.5275
+latency_avg: 4832.1523
+latency_med: 3650.4000
+hopcount_avg: 2.7422
+hopcount_med: 2
+buffertime_avg: 1276.4033
+buffertime_med: 775.0000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4832.152306371466
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 253259.0000
+created: 7339
+started: 132011
+relayed: 106057
+aborted: 25953
+dropped: 111473
+removed: 0
+delivered: 1367
+delivery_prob: 0.1863
+response_prob: 0.0000
+overhead_ratio: 76.5838
+latency_avg: 4824.3469
+latency_med: 3650.4000
+hopcount_avg: 2.7359
+hopcount_med: 2
+buffertime_avg: 1273.6825
+buffertime_med: 772.6000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4824.346894352066
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 256887.0000
+created: 7445
+started: 133747
+relayed: 107471
+aborted: 26276
+dropped: 112974
+removed: 0
+delivered: 1379
+delivery_prob: 0.1852
+response_prob: 0.0000
+overhead_ratio: 76.9340
+latency_avg: 4815.9998
+latency_med: 3650.4000
+hopcount_avg: 2.7266
+hopcount_med: 2
+buffertime_avg: 1275.1197
+buffertime_med: 773.2000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4815.999785861676
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 260494.0000
+created: 7551
+started: 135589
+relayed: 108966
+aborted: 26621
+dropped: 114540
+removed: 0
+delivered: 1403
+delivery_prob: 0.1858
+response_prob: 0.0000
+overhead_ratio: 76.6664
+latency_avg: 4806.7680
+latency_med: 3647.3000
+hopcount_avg: 2.7270
+hopcount_med: 2
+buffertime_avg: 1275.2901
+buffertime_med: 772.9000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4806.768000681719
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 264129.0000
+created: 7657
+started: 137528
+relayed: 110536
+aborted: 26990
+dropped: 116192
+removed: 0
+delivered: 1419
+delivery_prob: 0.1853
+response_prob: 0.0000
+overhead_ratio: 76.8971
+latency_avg: 4795.3202
+latency_med: 3644.6000
+hopcount_avg: 2.7301
+hopcount_med: 2
+buffertime_avg: 1275.0795
+buffertime_med: 772.8000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4795.320158643095
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 267752.0000
+created: 7762
+started: 139467
+relayed: 112113
+aborted: 27352
+dropped: 117863
+removed: 0
+delivered: 1438
+delivery_prob: 0.1853
+response_prob: 0.0000
+overhead_ratio: 76.9645
+latency_avg: 4807.9248
+latency_med: 3650.4000
+hopcount_avg: 2.7337
+hopcount_med: 2
+buffertime_avg: 1275.2763
+buffertime_med: 773.1000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4807.924829834163
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 271378.0000
+created: 7867
+started: 141501
+relayed: 113761
+aborted: 27738
+dropped: 119585
+removed: 0
+delivered: 1472
+delivery_prob: 0.1871
+response_prob: 0.0000
+overhead_ratio: 76.2833
+latency_avg: 4797.9671
+latency_med: 3649.6000
+hopcount_avg: 2.7351
+hopcount_med: 2
+buffertime_avg: 1274.8440
+buffertime_med: 772.5000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4797.967055439388
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 274985.0000
+created: 7971
+started: 143268
+relayed: 115171
+aborted: 28095
+dropped: 121080
+removed: 0
+delivered: 1494
+delivery_prob: 0.1874
+response_prob: 0.0000
+overhead_ratio: 76.0890
+latency_avg: 4823.5059
+latency_med: 3675.3000
+hopcount_avg: 2.7390
+hopcount_med: 2
+buffertime_avg: 1275.9282
+buffertime_med: 772.5000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4823.505894100921
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 278609.0000
+created: 8076
+started: 145307
+relayed: 116815
+aborted: 28490
+dropped: 122794
+removed: 0
+delivered: 1517
+delivery_prob: 0.1878
+response_prob: 0.0000
+overhead_ratio: 76.0040
+latency_avg: 4806.5298
+latency_med: 3650.4000
+hopcount_avg: 2.7357
+hopcount_med: 2
+buffertime_avg: 1275.8898
+buffertime_med: 771.7000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4806.529799569519
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 282239.0000
+created: 8181
+started: 147133
+relayed: 118289
+aborted: 28843
+dropped: 124359
+removed: 0
+delivered: 1541
+delivery_prob: 0.1884
+response_prob: 0.0000
+overhead_ratio: 75.7612
+latency_avg: 4798.8023
+latency_med: 3649.6000
+hopcount_avg: 2.7320
+hopcount_med: 2
+buffertime_avg: 1276.1541
+buffertime_med: 773.0000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4798.802275213272
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 285848.0000
+created: 8285
+started: 149195
+relayed: 119941
+aborted: 29253
+dropped: 126091
+removed: 0
+delivered: 1568
+delivery_prob: 0.1893
+response_prob: 0.0000
+overhead_ratio: 75.4930
+latency_avg: 4800.7345
+latency_med: 3675.3000
+hopcount_avg: 2.7366
+hopcount_med: 2
+buffertime_avg: 1274.8542
+buffertime_med: 771.5000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4800.734506541904
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 289468.0000
+created: 8390
+started: 151032
+relayed: 121422
+aborted: 29609
+dropped: 127635
+removed: 0
+delivered: 1592
+delivery_prob: 0.1897
+response_prob: 0.0000
+overhead_ratio: 75.2701
+latency_avg: 4799.2984
+latency_med: 3678.0000
+hopcount_avg: 2.7431
+hopcount_med: 2
+buffertime_avg: 1275.3002
+buffertime_med: 771.2000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4799.298370837043
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 293071.0000
+created: 8494
+started: 152873
+relayed: 122920
+aborted: 29950
+dropped: 129222
+removed: 0
+delivered: 1608
+delivery_prob: 0.1893
+response_prob: 0.0000
+overhead_ratio: 75.4428
+latency_avg: 4799.4385
+latency_med: 3675.3000
+hopcount_avg: 2.7456
+hopcount_med: 2
+buffertime_avg: 1276.5793
+buffertime_med: 772.5000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4799.438499027624
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 296685.0000
+created: 8599
+started: 154734
+relayed: 124437
+aborted: 30297
+dropped: 130811
+removed: 0
+delivered: 1631
+delivery_prob: 0.1897
+response_prob: 0.0000
+overhead_ratio: 75.2949
+latency_avg: 4815.3126
+latency_med: 3691.4000
+hopcount_avg: 2.7597
+hopcount_med: 2
+buffertime_avg: 1277.6831
+buffertime_med: 773.7000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4815.312572965914
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 300295.0000
+created: 8703
+started: 156756
+relayed: 126098
+aborted: 30656
+dropped: 132562
+removed: 0
+delivered: 1651
+delivery_prob: 0.1897
+response_prob: 0.0000
+overhead_ratio: 75.3767
+latency_avg: 4798.3131
+latency_med: 3678.0000
+hopcount_avg: 2.7577
+hopcount_med: 2
+buffertime_avg: 1277.1841
+buffertime_med: 773.9000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4798.313086950376
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 303920.0000
+created: 8809
+started: 158641
+relayed: 127644
+aborted: 30995
+dropped: 134184
+removed: 0
+delivered: 1685
+delivery_prob: 0.1913
+response_prob: 0.0000
+overhead_ratio: 74.7531
+latency_avg: 4792.8862
+latency_med: 3678.5000
+hopcount_avg: 2.7608
+hopcount_med: 2
+buffertime_avg: 1276.7763
+buffertime_med: 773.6000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4792.886176025821
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 307538.0000
+created: 8915
+started: 160671
+relayed: 129297
+aborted: 31372
+dropped: 135923
+removed: 0
+delivered: 1704
+delivery_prob: 0.1911
+response_prob: 0.0000
+overhead_ratio: 74.8785
+latency_avg: 4811.1065
+latency_med: 3687.0000
+hopcount_avg: 2.7729
+hopcount_med: 2
+buffertime_avg: 1276.3514
+buffertime_med: 773.2000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4811.10645928125
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 311177.0000
+created: 9020
+started: 162513
+relayed: 130792
+aborted: 31720
+dropped: 137506
+removed: 0
+delivered: 1721
+delivery_prob: 0.1908
+response_prob: 0.0000
+overhead_ratio: 74.9977
+latency_avg: 4810.3940
+latency_med: 3691.4000
+hopcount_avg: 2.7757
+hopcount_med: 2
+buffertime_avg: 1275.8215
+buffertime_med: 774.2000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4810.394018948543
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 314787.0000
+created: 9126
+started: 164435
+relayed: 132352
+aborted: 32081
+dropped: 139146
+removed: 0
+delivered: 1742
+delivery_prob: 0.1909
+response_prob: 0.0000
+overhead_ratio: 74.9770
+latency_avg: 4820.1184
+latency_med: 3710.9000
+hopcount_avg: 2.7784
+hopcount_med: 2
+buffertime_avg: 1276.3009
+buffertime_med: 773.9000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4820.118373472364
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 318392.0000
+created: 9231
+started: 166205
+relayed: 133784
+aborted: 32420
+dropped: 140672
+removed: 0
+delivered: 1761
+delivery_prob: 0.1908
+response_prob: 0.0000
+overhead_ratio: 74.9705
+latency_avg: 4810.1194
+latency_med: 3691.4000
+hopcount_avg: 2.7706
+hopcount_med: 2
+buffertime_avg: 1276.7838
+buffertime_med: 773.2000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4810.119367718748
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 322013.0000
+created: 9335
+started: 168215
+relayed: 135424
+aborted: 32788
+dropped: 142386
+removed: 0
+delivered: 1777
+delivery_prob: 0.1904
+response_prob: 0.0000
+overhead_ratio: 75.2093
+latency_avg: 4795.6169
+latency_med: 3675.3000
+hopcount_avg: 2.7636
+hopcount_med: 2
+buffertime_avg: 1277.1224
+buffertime_med: 772.7000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4795.616942322393
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 325641.0000
+created: 9441
+started: 170172
+relayed: 137028
+aborted: 33143
+dropped: 144085
+removed: 0
+delivered: 1798
+delivery_prob: 0.1904
+response_prob: 0.0000
+overhead_ratio: 75.2113
+latency_avg: 4826.8606
+latency_med: 3691.4000
+hopcount_avg: 2.7720
+hopcount_med: 2
+buffertime_avg: 1277.1714
+buffertime_med: 772.8000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4826.860570874124
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 329264.0000
+created: 9545
+started: 172179
+relayed: 138644
+aborted: 33535
+dropped: 145782
+removed: 0
+delivered: 1815
+delivery_prob: 0.1902
+response_prob: 0.0000
+overhead_ratio: 75.3879
+latency_avg: 4836.0383
+latency_med: 3712.7000
+hopcount_avg: 2.7741
+hopcount_med: 2
+buffertime_avg: 1276.9412
+buffertime_med: 771.8000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4836.038295513624
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 332878.0000
+created: 9649
+started: 174012
+relayed: 140150
+aborted: 33860
+dropped: 147358
+removed: 0
+delivered: 1839
+delivery_prob: 0.1906
+response_prob: 0.0000
+overhead_ratio: 75.2099
+latency_avg: 4832.4849
+latency_med: 3710.9000
+hopcount_avg: 2.7705
+hopcount_med: 2
+buffertime_avg: 1277.5293
+buffertime_med: 772.4000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4832.484886477317
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 336498.0000
+created: 9755
+started: 176007
+relayed: 141768
+aborted: 34237
+dropped: 149101
+removed: 0
+delivered: 1857
+delivery_prob: 0.1904
+response_prob: 0.0000
+overhead_ratio: 75.3425
+latency_avg: 4846.3428
+latency_med: 3723.0000
+hopcount_avg: 2.7749
+hopcount_med: 2
+buffertime_avg: 1277.9413
+buffertime_med: 772.6000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4846.34276043141
+----------------------------------
+Message stats for scenario ProphetRouter
+sim_time: 337418.1000
+created: 9781
+started: 176390
+relayed: 142058
+aborted: 34331
+dropped: 149413
+removed: 0
+delivered: 1860
+delivery_prob: 0.1902
+response_prob: 0.0000
+overhead_ratio: 75.3753
+latency_avg: 4841.2772
+latency_med: 3719.4000
+hopcount_avg: 2.7731
+hopcount_med: 2
+buffertime_avg: 1278.1106
+buffertime_med: 772.7000
+rtt_avg: NaN
+rtt_med: NaN
+End-to-End delay: 4841.277153817772
+----------------------------------
